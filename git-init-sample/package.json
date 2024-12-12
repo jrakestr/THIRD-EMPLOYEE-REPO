@@ -1,0 +1,32 @@
+{
+  "name": "git-init-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "tailwindcss -i ./tailwind.css -o ./styles.css --watch",
+    "prettify-staged": "lint-staged",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "husky": "^8.0.0",
+    "lint-staged": "^15.2.10",
+    "postcss": "^8.4.47",
+    "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.13"
+  },
+  "lint-staged": {
+    "*.js": "prettier --write"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run prettify-staged"
+    }
+  }
+}
+

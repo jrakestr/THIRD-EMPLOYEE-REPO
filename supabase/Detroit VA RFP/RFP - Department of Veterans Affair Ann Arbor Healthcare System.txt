@@ -1,0 +1,1462 @@
+PAGE 1 OF
+1. REQUISITION NO.   
+2. CONTRACT NO.
+3. AWARD/EFFECTIVE DATE
+4. ORDER NO.
+5. SOLICITATION NUMBER
+6. SOLICITATION ISSUE DATE
+a. NAME
+b. TELEPHONE NO.  (No Collect Calls)
+8. OFFER DUE DATE/LOCAL
+TIME
+9. ISSUED BY
+CODE
+10. THIS ACQUISITION IS
+ UNRESTRICTED OR
+SET ASIDE: 
+% FOR:
+SMALL BUSINESS
+HUBZONE SMALL
+BUSINESS
+SERVICE-DISABLED
+VETERAN-OWNED
+SMALL BUSINESS
+WOMEN-OWNED SMALL BUSINESS
+(WOSB) ELIGIBLE UNDER THE WOMEN-OWNED
+SMALL BUSINESS PROGRAM
+EDWOSB
+8(A)
+NAICS:
+SIZE STANDARD:
+11. DELIVERY FOR FOB DESTINA-
+TION UNLESS BLOCK IS
+MARKED
+SEE SCHEDULE
+12. DISCOUNT TERMS
+ 13a.  THIS CONTRACT IS A 
+RATED ORDER UNDER
+DPAS (15 CFR 700)
+13b. RATING
+14. METHOD OF SOLICITATION
+RFQ
+IFB
+RFP
+15. DELIVER TO 
+CODE
+16. ADMINISTERED BY
+CODE
+17a. CONTRACTOR/OFFEROR
+CODE
+FACILITY CODE
+18a. PAYMENT WILL BE MADE BY
+CODE
+TELEPHONE NO.
+UEI:
+EFT:
+PHONE:
+FAX:
+17b. CHECK IF REMITTANCE IS DIFFERENT AND PUT SUCH ADDRESS IN OFFER
+18b. SUBMIT INVOICES TO ADDRESS SHOWN IN BLOCK 18a UNLESS BLOCK BELOW IS CHECKED
+SEE ADDENDUM
+19.
+20.
+21.
+22.
+23.
+24.
+ITEM NO.
+SCHEDULE OF SUPPLIES/SERVICES
+QUANTITY
+UNIT
+UNIT PRICE
+AMOUNT
+(Use Reverse and/or Attach Additional Sheets as Necessary)
+25. ACCOUNTING AND APPROPRIATION DATA
+26. TOTAL AWARD AMOUNT (For Govt. Use Only)
+27a. SOLICITATION INCORPORATES BY REFERENCE FAR 52.212-1, 52.212-4. FAR 52.212-3 AND 52.212-5 ARE ATTACHED.  ADDENDA
+ARE
+ARE NOT ATTACHED.
+27b. CONTRACT/PURCHASE ORDER INCORPORATES BY REFERENCE FAR 52.212-4. FAR 52.212-5 IS ATTACHED.  ADDENDA
+ARE
+ARE NOT ATTACHED
+28. CONTRACTOR IS REQUIRED TO SIGN THIS DOCUMENT AND RETURN _______________ 
+29. AWARD OF CONTRACT: REF.  ___________________________________ OFFER
+COPIES TO ISSUING OFFICE.  CONTRACTOR AGREES TO FURNISH AND 
+DATED ________________________________.  YOUR OFFER ON SOLICITATION 
+DELIVER ALL ITEMS SET FORTH OR OTHERWISE IDENTIFIED ABOVE AND ON ANY 
+(BLOCK 5), INCLUDING ANY ADDITIONS OR CHANGES WHICH ARE 
+ADDITIONAL SHEETS SUBJECT TO THE TERMS AND CONDITIONS SPECIFIED
+SET FORTH HEREIN IS ACCEPTED AS TO ITEMS:
+30a. SIGNATURE OF OFFEROR/CONTRACTOR
+31a. UNITED STATES OF AMERICA (SIGNATURE OF CONTRACTING OFFICER)
+30b. NAME AND TITLE OF SIGNER (TYPE OR PRINT)
+30c. DATE SIGNED
+31b. NAME OF CONTRACTING OFFICER (TYPE OR PRINT)
+31c. DATE SIGNED
+AUTHORIZED FOR LOCAL REPRODUCTION
+(REV. NOV 2021)
+PREVIOUS EDITION IS NOT USABLE
+Prescribed by GSA - FAR (48 CFR) 53.212
+7. FOR SOLICITATION
+INFORMATION CALL:
+STANDARD FORM 1449
+SOLICITATION/CONTRACT/ORDER FOR COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES
+OFFEROR TO COMPLETE BLOCKS 12, 17, 23, 24, & 30
+74
+
+
+
+
+
+
+
+
+
+
+
+
+36C25024R0170
+09-09-2024
+Morgan Stein
+734-222-7168
+10-15-2024
+3:00PM
+EDT
+36C250
+Department of Veterans Affairs
+Ann Arbor Healthcare System
+Network Contracting Office 10
+2215 Fuller Road
+Ann Arbor MI 48105
+
+
+
+X
+100
+
+
+X
+
+
+
+
+485991
+$19 Million
+
+
+
+
+
+
+N/A
+X
+
+
+36C553
+Department of Veterans Affair
+John D. Dingell VA Medical Cent3er
+
+4646 John R ST
+Detroit MI 48102
+Y
+Department of Veterans Affairs
+Ann Arbor Healthcare System
+Network Contracting Office 10
+2215 Fuller Road
+Ann Arbor MI 48105
+
+
+ 
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+Department of Veterans Affairs
+Financial Management System
+PO Box 149971
+Austin TX 78714-9971
+877-353-9791
+512-460-5540
+
+See CONTINUATION Page
+Contractor to provide non-emergent patient transportation
+for the John D. Dingell VA Medical Center, Detroit, MI, in
+accordance with the Performance Work Statement and the
+Price/Cost Schedule.
+
+Technical questions must be submitted to in writing NLT
+09/16/2024 at 3:00PM EDT.  All questions must be emailed
+to morgan.stein@va.gov with "Technical Questions
+36C25024R0170" on the subject line.
+This solicitation is intended to be awarded as a three-year
+indefinite delivery-indefinite quantity contract.
+
+
+
+
+
+
+
+
+
+
+
+See CONTINUATION Page
+
+
+
+
+X
+
+
+
+
+X
+  1
+
+
+
+
+Christopher D. Gundy
+Contracting Officer
+
+
+Table of Contents
+SECTION A	1
+A.1  SF 1449  SOLICITATION/CONTRACT/ORDER FOR COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES	1
+SECTION B - CONTINUATION OF SF 1449 BLOCKS	4
+B.1  CONTRACT ADMINISTRATION DATA	4
+B.2 PERFORMANCE WORK STATEMENT	6
+B.3 PRICE/COST SCHEDULE	24
+B.4 REVIEW REQUIRED REGISTRATION WITH CONTRACTOR PERFORMANCE ASSESSMENT SYSTEM (CPARS)	24
+SECTION C - CONTRACT CLAUSES	26
+C.1  52.216-18 ORDERING (AUG 2020)	26
+C.2  52.216-19 ORDER LIMITATIONS (OCT 1995)	26
+C.3  52.216-22 INDEFINITE QUANTITY (OCT 1995)	27
+C.4  52.217-8 OPTION TO EXTEND SERVICES (NOV 1999)	27
+C.5  52.232-19  AVAILABILITY OF FUNDS FOR THE NEXT FISCAL YEAR  (APR 1984)	28
+C.6  VAAR 852.201-70  CONTRACTING OFFICER'S REPRESENTATIVE (DEC 2022)	28
+C.7  VAAR 852.203-70 COMMERCIAL ADVERTISING (MAY 2018)	28
+C.8  VAAR 852.219-73  VA NOTICE OF TOTAL SET-ASIDE FOR CERTIFIED SERVICE-DISABLED VETERAN-OWNED SMALL BUSINESSES  (JAN 2023) (DEVIATION)	28
+C.9  VAAR 852.219-75  VA NOTICE OF LIMITATIONS ON SUBCONTRACTING—CERTIFICATE OF COMPLIANCE FOR SERVICES AND CONSTRUCTION (JAN 2023) (DEVIATION)	31
+C.10  VAAR 852.228-71 INDEMNIFICATION AND INSURANCE (MAR 2018)	33
+C.11  VAAR 852.232-72 ELECTRONIC SUBMISSION OF PAYMENT REQUESTS (NOV 2018)	33
+C.12  VAAR 852.237-74  NON-DISCRIMINATION IN SERVICE DELIVERY (OCT 2019)	35
+C.13  VAAR 852.237-75  KEY PERSONNEL (OCT 2019)	35
+C.14  VAAR 852.242-71  ADMINISTRATIVE CONTRACTING OFFICER (OCT 2020)	35
+C.15  52.252-2  CLAUSES INCORPORATED BY REFERENCE  (FEB 1998)	35
+C.16  52.212-5  CONTRACT TERMS AND CONDITIONS REQUIRED TO IMPLEMENT STATUTES OR EXECUTIVE ORDERS—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (MAY 2024)	36
+SECTION D - CONTRACT DOCUMENTS, EXHIBITS, OR ATTACHMENTS	45
+SECTION E - SOLICITATION PROVISIONS	46
+E.1 INSTRUCTIONS FOR QUOTE SUBMISSION	46
+E.2  52.204-24 REPRESENTATION REGARDING CERTAIN TELECOMMUNICATIONS AND VIDEO SURVEILLANCE SERVICES OR EQUIPMENT (NOV 2021)	47
+E.3  52.204-29  FEDERAL ACQUISITION SUPPLY CHAIN SECURITY ACT ORDERS—REPRESENTATION AND DISCLOSURES (DEC 2023)	50
+E.4 52.209-7 INFORMATION REGARDING RESPONSIBILITY MATTERS (OCT 2018)	51
+E.5 52.216-1 TYPE OF CONTRACT (APR 1984)	52
+E.6  52.233-2  SERVICE OF PROTEST  (SEP 2006)	53
+E.7  VAAR 852.233-70  PROTEST CONTENT/ALTERNATIVE DISPUTE RESOLUTION (OCT 2018)	53
+E.8  VAAR 852.233-71  ALTERNATE PROTEST PROCEDURE (OCT 2018)	54
+E.9  VAAR 852.239-75  INFORMATION AND COMMUNICATION TECHNOLOGY ACCESSIBILITY NOTICE (FEB 2023)	54
+E.10  52.252-1  SOLICITATION PROVISIONS INCORPORATED BY REFERENCE  (FEB 1998)	55
+E.11  52.212-2  EVALUATION—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (NOV 2021)	55
+E.12  52.212-3  OFFEROR REPRESENTATIONS AND CERTIFICATIONS—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (MAY 2024)	56
+
+SECTION B - CONTINUATION OF SF 1449 BLOCKS
+	
+B.1  CONTRACT ADMINISTRATION DATA
+  1.  Contract Administration:  All contract administration matters will be handled by the following individuals:
+    a.  CONTRACTOR:  CONTRACTOR:  Company Name____________________________
+	Address:__________________________________
+	City/State/Zip_______________________________
+	Point of contact/Position:______________________
+	POC Phone:________________________________
+	UEI:______________________________________
+	Tax ID NO:__________________________________
+    b.  GOVERNMENT:  Contract Specialist 36C250 Morgan Stein
+Department of Veterans Affairs
+Ann Arbor Healthcare System
+Network Contracting Office 10
+2215 Fuller Road
+Ann Arbor MI 48105
+  2.  CONTRACTOR REMITTANCE ADDRESS:  All payments by the Government to the contractor will be made in accordance with:
+[X]
+52.232-33, Payment by Electronic Funds Transfer—System For Award Management, or
+[]
+52.232-36, Payment by Third Party
+  3.  INVOICES:  Invoices shall be submitted in arrears:
+    a.  Quarterly	[]
+    b.  Semi-Annually	[]
+    c.  Other	[X]  Twice monthly
+  4.  GOVERNMENT INVOICE ADDRESS:  All Invoices from the contractor shall be submitted electronically in accordance with VAAR Clause 852.232-72 Electronic Submission of Payment Requests.
+ https://www.tungsten-network.com/customer-campaigns/veteransaffairs/
+
+  ACKNOWLEDGMENT OF AMENDMENTS:  The offeror acknowledges receipt of amendments to the Solicitation numbered and dated as follows:
+AMENDMENT NO
+DATE
+
+
+
+
+
+
+
+
+B.2 PERFORMANCE WORK STATEMENT
+	•	OVERVIEW 
+	•	The Contractor shall enter into an Indefinite-Delivery Indefinite Quantity Contract (IDIQ) with the John D. Dingell VA Medical Center (JDDVAMC), Detroit, Michigan to furnish all materials, labor and equipment necessary to provide non-emergent patient transportation for ambulatory and non-ambulatory patients of the JDDVAMC, including patients utilizing wheelchairs and/or scooters.  The IDIQ term shall be three years.  This is a firm-fixed price IDIQ.  The contractor shall comply with all applicable state and federal travel regulations. 
+Patients shall be transported to and from the JDDVAMC and the CBOC’s located in Pontiac and Yale, Michigan, as well as other regional VA Medical Centers in Saginaw, Ann Arbor and Iron Mountain, Michigan; Cleveland, OH; Chicago, Illinois and Milwaukee, Wisconsin.  The estimated quantities are for one-way trips.
+	•	Ordering (Authorization) Process.  All non-emergent Non-VA care shall be pre-authorized by VA.  A VA representative will contact your office to coordinate the Veteran’s appointment date, time, and additional pertinent information.  A list of authorized VA personnel will be provided to the Contractor within 15 calendar days after award.  
+	•	BACKGROUND
+	•	Introduction. The JDDVAMC has a large population of ambulatory and non-ambulatory patients eligible for and in need of transportation to and from their residences to medical appointments.  The Contractor shall be capable of providing non-emergent transportation of ambulatory and non-ambulatory patients of the JDDVAMC 24 hours a day, 7 days a week, 365 days a year to and from their residences for medical appointments at the JDDVAMC and its affiliated Community Based Outpatient Clinics in Yale and Pontiac, Michigan as well as other regional VA Medical Centers in Saginaw, Ann Arbor and Iron Mountain, Michigan; Cleveland, OH; Chicago, Illinois and Milwaukee, Wisconsin.  The vast majority of the trips will be to and from the JDDVAMC and within daytime hours.  The Contractor, at times, will only receive one day or same day notice of each trip but must be capable of providing timely transportation of patients.  The Contractor shall be capable of providing a heavy estimated number of daily trips as represented in the attached Schedule of Services and shall provide an on-site patient transportation coordinator at the JDDVAMC.
+	•	VA Detroit Medical Center and Outpatient Clinics:
+	•	John D Dingell VA Medical Center, 4646 John R ST, Detroit, MI 48201
+	•	Pontiac VA Clinic, 44200 Woodward Ave, Suite 212, Pontiac, MI 48341
+	•	Downriver VA Clinic, 1640 Fort ST, Suite D, Trenton, MI 48183
+	•	Piquette Street VA Clinic, 301 Piquette Street, Community Resource & Referral Center (CRRC), Detroit, MI 48202
+	•	Yale VA Clinic, 7470 Brockway Road, Yale, MI 48097
+
+	•	REQUIREMENTS	
+	•	VEHICLE REQUIREMENTS
+	•	The vehicles and equipment with which the Contractor renders the above services shall meet all State of Michigan requirements for insurance, registration, and equipment.  In addition:
+	•	Contractor shall only use vehicles that have emergency communication equipment which shall be isolated from the engine battery.  Cellular phones and two-way radios are acceptable communication equipment.  Such communication equipment shall be furnished by the contractor. Drivers shall not use cell phones for personal use while transporting VA patients.
+	•	Contractor shall only use vehicles that have a United States Department of Transportation approved system for wheelchair securement devices and a tool designed for cutting securement straps in case of emergency.  Contractor shall only use vehicles that meet the United State Department of Transportation safety requirements for seat belts, tie downs and handling of motorized or electric wheelchair.  Contractor shall use vehicles that have a shoulder/chest harness for double amputee patients when applicable.
+	•	Contractor shall provide high top vehicles with interior of sufficient height to ensure that an individual of 6 feet in height has adequate head clearance.  The majority of the patients are in wheelchairs and regular van ceilings shall not accommodate the needs of these patients.
+	•	Contractor shall only use Vehicles that are three years old or less.
+	•	The contractor shall only use vehicles equipped with child safety locks.
+	•	Contractor shall only use vehicles with Global Positioning System (GPS) with a tracking device.
+	•	Contractor shall only use vehicles equipped with a minimum five passenger capacity.
+	•	Contractor shall only use vehicles with wheelchair lift and scooter transport capability.  The ramp or lift shall have a slip-proof surface.  The use of vehicles with wheelchair lift systems or vehicle retrofit shall comply with DOT 49 CFR 571.404, Platform Lift Installations in Motor Vehicles.  
+	•	Contractor shall only use vehicles with basic first aid kits. Furthermore, all items such as first aid kits, flashlights, warning triangles, ice scrapers, and blankets, shall be secured and stored below the level of seat backs.
+	•	Vehicles shall be equipped with dry chemical fire extinguishers which shall be securely mounted in a bracket and readily accessible to the driver in an emergency.  Extinguishers shall be serviced annually and bear a tag indicating date of service.  Fire extinguishers shall be inspected and maintained in accordance with National Fire Protection Association (NFPA) Standard 10 and secured to the vehicle body. 
+	•	Contractor shall only use vehicles equipped with cardiopulmonary resuscitation equipment.  Furthermore, Contractor shall only use vehicles equipped with the ability to secure oxygen tanks. 
+	•	Vehicles shall be handicapped accessible and meet all applicable Federal and State Motor Vehicle Safety Standards.
+	•	Under no circumstance shall patient comfort be compromised.  Contractor shall use vehicles equipped with functioning heat and air conditioning of sufficient capacity to insure the comfort of the patient. 
+	•	Vehicles’ odometers shall be calibrated and maintained in conformance with the vehicle’s manufacturer’s standards.
+	•	The Contractor shall submit with their proposal a list of all vehicles that shall be used in performing transportation services under this IDIQ and copies of the individual maintenance file for each vehicle on the list (See paragraph (2)(f) below).  The list of vehicles is to include the make, model and year.  This information shall also be available to the Contracting Officer and /or COR during the IDIQ period and shall be provided within 1 business day of the Contractor’s receipt of the request.  
+	•	The government reserves the right to inspect any vehicle at any given time. VA reserves the right to inspect contractor's equipment and vehicles or require documentation of compliance with IDIQ specifications, and State laws, rules, regulations and guidelines governing transport vehicles.  VA Travel staff, Police, and Security, as inspectors, shall be allowed to accompany a scheduled patient transport if deemed necessary.  VA inspections shall in no way constitute an endorsement by VA that the contractor's vehicles and equipment are properly maintained.  VA reserves the right to restrict the Contractor’s use of equipment and vehicles which are in need of repair, unclean, unsafe, damaged on the interior or exterior body, and are not in compliance with IDIQ requirements.  The restriction of such equipment and vehicles shall not relieve the Contractor from performing in accordance with the strict intent and meaning of the IDIQ.  Therefore, the services shall be rendered as requested by VA.
+	•	A random inspection of contracted vehicles may be conducted by the government between after IDIQ award.  Inspection will be coordinated with the Contractor and conducted at the Contractor’s facility.
+	•	VEHICLE MAINTENANCE REQUIREMENTS  
+	•	Contractor shall maintain vehicles in a clean and orderly condition, free from debris and any accumulations which may constitute an accident, injury, or fire hazard. 
+	•	Contractor shall maintain vehicles in accordance with manufacturer’s recommended maintenance schedule or an improved schedule based on actual vehicle operating conditions.  
+	•	Contractor shall correct a deficiency that might interfere with safe operation of vehicle before vehicle is placed in service.
+	•	Contractor shall keep windows and lights clean.  Contractor shall keep the interior of vehicles clean and in good repair.  
+	•	Contractor shall ensure that Wheelchair lifts are maintained in conformance with operation/maintenance manual instructions provided by lift manufacturer.  When a vehicle is serviced, contractor shall ensure that the mechanic or service facility inspects, repairs, and services the lift in accordance with the manufacturer’s instructions.  
+	•	Contractor shall maintain information on preventive maintenance and/or repairs on each vehicle in an individual vehicle file.  Each file shall be maintained in chronological order, with the latest service action on top. Copies of these maintenance files shall be provided to the COR and/or Contracting Officer on a quarterly basis, and at any other time requested during the IDIQ period.  When requested, copies of files shall be provided within 1 business day of the Contractor’s receipt of the request.  
+	•	DRIVER REQUIREMENTS
+	•	Furnish qualified personnel as required by IDIQ specifications to accomplish all services under this IDIQ. During the IDIQ period of performance, if the Contractor proposes to add or replace personnel to perform IDIQ services, the Contractor shall submit the required evidence of training, certifications, licensing and any other qualifications to the designated COR.  At no time shall the Contractor utilize additional or replacement personnel to perform IDIQ services who do not meet the qualifications under the terms and conditions of this IDIQ.  
+	•	Ensure a record of each employee as to character and physical capabilities of performing the duties of a driver shall be maintained and made available for inspection upon request.  Any physical, mental or emotional concerns or any serious defects or diseases would need to be considered when assigning drivers to be responsible for transporting dependent and vulnerable patients.   
+	•	Ensure all drivers have attained legal age (the age of 21) and shall maintain neat, clean and professional appearance.  The Contractor shall ensure drivers shall have not less than one year of experience as a licensed driver; and be licensed in accordance with the State of Michigan.  The Contractor shall ensure drivers have a current, valid, Michigan Chauffeur's license.
+	•	Ensure each driver shall be able to perform a vehicle safety inspection and that each driver shall be able to assist a patient into and out of the vehicle and operate a wheelchair lift or ramp.
+	•	Ensure each driver shall be able to communicate with the patients using common courtesy.  Contractor personnel, performing services under this IDIQ, shall at all times conduct themselves in a professional manner, maintain personal hygiene, wear clean, neat uniforms and be identified by having the company name, and employee name affixed to the uniform.  The Contractor shall ensure drivers shall communicate in a respectful manner (no swearing, jargon, or slang), speak clearly, maintain eye contact, and modify communication to accommodate hearing, visual and/or cognitive impairments of patients.
+	•	Within 30 calendar days of award, the Contractor shall provide licensure, training, driving record, health records, and any other requested information for all drivers to be used on this IDIQ.  This information shall also be available to the Contracting Officer and /or COR during the IDIQ period and shall be provided within 3 business days of the Contractor’s receipt of the request.  
+	•	VA reserves the right to restrict any Contractor employee from performing services as a driver or attendant under this IDIQ who does not meet the required qualifications for the services they are required to perform, who violates Federal regulations, or who is identified as a potential threat to the security, safety, health and/or operational mission of the VA and its’ veteran population.  The restriction of such contractor personnel shall not relieve the contractor from performing all the required services, in accordance with all terms, conditions, and schedules contained herein.
+	•	The Contractor shall ensure drivers get out of their vehicle and physically escort patients to and from vehicles during both pick up and drop off points.
+	•	DRIVER TRAINING REQUIREMENTS  
+	•	Contractor employees performing under this IDIQ must have successfully completed a certified basic First Aid Class.  
+	•	Must have successfully completed a minimum of eight (8) hours training in the techniques of transporting and assisting elderly and physically handicapped and mentally challenged patients which shall include instruction in the following elements:  	
+	•	Instruction in characteristics of the aging process and major disabling conditions;
+	•	Instruction in common assistance devices used by elderly and handicapped patients; 	
+	•	Instruction in attitudes toward elderly, handicapped or mentally challenged patients which includes the participation of elderly, handicapped or mentally challenged patients; 	
+	•	Instruction in methods of handling wheelchairs; 	
+	•	Instruction in moving, lifting and transferring patients; 	
+	•	Instruction in guidelines for transporting handicapped patients; and 	
+	•	Instruction in the operation of lifts, ramps and wheelchair securement devices. 
+	•	Each employee shall be instructed in fire extinguisher, radio dispatch, and vehicle ramp operations, wheelchair lift and securement devices; and shall know what to do and whom to call in a medical emergency or accident.  
+	•	Must complete four (4) hours of training in first aid (or show evidence of possessing American Red Cross First Aid Certificate).  
+	•	Must complete four (4) hours of classroom instruction in defensive driving and abuse-prevention training.  
+	•	Must successfully complete a refresher certified first aid course every two (2) years.  
+	•	Contractor shall ensure that all contractor employees with access to VA sensitive information complete VA privacy and information security training.
+	•	All contracted personnel working on this contract must complete TMS 20939 Privacy training on an annual basis.
+	•	The Contractor shall maintain a file demonstrating satisfactory evidence of above training, and evidence that the instructor is qualified to teach the above.  One of the requirements above is completion of basic, certified First Aid class so the first aid certificate requirement would already be met. 
+	•	START-UP REQUIREMENTS
+	•	Contractor shall be fully staffed, fully equipped, and ready to perform in full compliance with all IDIQ requirements within 30 days of IDIQ award.  The contractor shall submit within 5 days of IDIQ award specific information on vehicles and drivers.  
+	•	PATIENT PICK-UP REQUIREMENTS–SCHEDULED TRIPS
+	•	Most patients requiring transportation will reside in the Greater Detroit Metropolitan Area.  The addresses of patients will vary daily.  The list of patients will be faxed to the Contractor by 4:30 p.m., on the day before pick-up by the authorized individuals in the travel department at the VAMC Detroit.  The Contractor shall call the veteran by telephone prior to pick up to confirm the veteran's availability.  If the contractor is unable to confirm the veteran's availability for pick up, driver shall not go to the veteran’s home and no charges will be billed to the VA.  Also, if the Veteran confirms availability over the phone, but then refuses transportation after the contractor has arrived at the Veteran’s residence, the contractor shall immediately notify VA's Travel Unit.  Providing that the driver and vehicle are in compliance with all IDIQ requirements, this situation will be considered a “dry run” due to patient refusal.   The contractor shall bill for a verified "dry run" at the applicable rate specified in the schedule.  The contractor shall clearly identify any and all billing for “dry runs” on the invoice.  When either wheelchair, scooter, or ambulatory patient transportation service under the terms of this IDIQ are required, but due to unforeseen circumstances outside the control of the contractor the patient is not available for pick-up, the Contractor will be paid the applicable rate specified in the schedule. 
+	•	Contractor/Drivers shall follow the below instructions:
+	•	Contractor shall call the next patient/passenger before departing from their current location.
+	•	If the patient/care giver/spouse/family member/etc. answers, the Contractor shall confirm the patient’s name and address. The Contractor shall also provide them with the estimated time of arrival (ETA).
+	•	If the patient/care giver/spouse/family member/etc. does not answer and is connected to an answering machine or voicemail: 
+	•	the Contractor shall leave a message for the patient to contact the VA Travel Office, AND
+	•	The Contractor/driver shall immediately call their Dispatcher and inform them of the situation, AND
+	•	The Contractor/ Dispatcher shall contact the VA Travel Office/AOD for further instructions.
+	•	If the patient/passenger declines a ride or requests something other than what is detailed on the pick-up list:
+	•	Contractor/Driver shall immediately call their Dispatcher and inform them of the situation. The Dispatcher shall contact the VA Travel Office/AOD for further instructions
+	•	Contractor/Dispatcher:
+	•	Contractor/dispatcher shall, upon receiving the details of a potential “Dry Run” from a driver, contact the VA Travel Office/AOD and follow instructions below:
+	•	Between the hours of 8:00 a.m. and 4:00 p.m., call the Travel Office at:  313-576-4307
+	•	If there is no answer, make another call.  If no answer, please do the following:
+	•	Call Ken Hill at (313) 576-1000 extension 63633.  If no answer do the following:
+	•	To page Mr. Hill, dial (313) 576-1000 extension 61135 - this will bring you to the paging system – Input 63633.
+	•	If Mr. Hill is non-responsive, call Eleanor Shaw at (313) 576-1000 extension 61318.  If no answer do the following:
+	•	To page Mr. Matanzas, dial (313) 576-1000 extension 65393 - this will bring you to the paging system – Input 65393.
+	•	Between the hours of 4:00 p.m. and 8:00 a.m., call the AOD at: 313-576-4351
+	•	If there is no answer, call again.  
+	•	Once the Contractor’s Dispatcher has received a determination of whether or not they should proceed, the Contractor’s Dispatcher shall immediately call their driver to let them know what action they should take.
+	•	Service Animals
+	•	Drivers shall permit and accommodate the patient’s service animal on each trip.  The ADA (Americans with Disabilities Act) defines a service animal as any guide dog, signal dog, or other animal individually trained to provide assistance to an individual with a disability. If they meet this definition, animals are considered service animals under the ADA regardless of whether they have been licensed or certified by a state or local government.
+	•	Service animals perform some of the functions and tasks that the individual with a disability cannot perform for him or herself. Guide dogs are one type of service animal, used by some individuals who are blind. This is the type of service animal with which most people are familiar. But there are service animals that assist persons with other kinds of disabilities in their day-to-day activities. Some examples include:
+	•	Alerting persons with hearing impairments to sounds. 
+	•	Pulling wheelchairs or carrying and picking up things for persons with mobility impairments. 
+	•	Assisting persons with mobility impairments with balance. 
+	•	A service animal is not a pet.
+	•	Some, but not all, service animals wear special collars and harnesses. Some, but not all, are licensed or certified and have identification papers. If drivers are not certain that an animal is a service animal, they may ask the patient if it is a service animal required because of a disability. However, a patient may not be carrying documentation of his or her medical condition or disability. Therefore, such documentation generally may not be required as a condition for providing transportation to a patient accompanied by a service animal. Although a number of states have programs to certify service animals, drivers shall not insist on proof of state certification before permitting the service animal to accompany the patient.  (see http://www.ada.gov/qasrvc.htm)
+	•	RETURN TRIPS
+	•	Many of the patients that are transported to an appointment will need transportation from the Medical Center or Clinic back to their residence after their appointment.  Each return transportation trip will be ordered by the Travel Clerk or Administrative Officer of the Day as a one way trip.  Although return trips will be ordered the day the transportation is needed, the schedule of patients sent to the contractor will give the contractor a rough approximation of the return trips that may be necessary the following day.  When the patient is being picked up from the VAMC Detroit and/or the Community Based Outpatient Clinics (CBOC) located in Pontiac and Yale, Michigan, or other regional VA Medical Centers, the Contractor shall pick up the patient within 30 minutes of a call from the Travel Clerk or the Administrative Officer of the Day.
+	•	The Contractor shall use the following procedure during normal business hours:
+	•	Only passenger/patients who have “checked in” with the Contractor’s on-site coordinator after their appointment will be scheduled for a return ride. 
+	•	Any passenger/patients who check in but are not available or not in the designated waiting area at the time of departure, will be a “Dry Run”.  A travel ticket will be created indicating a No Show/Dry Run.
+	•	If the patient does not check in, the trip is considered a cancellation.
+	•	The Contractor shall use the following procedure after normal business hours:
+	•	The Contractor shall pick up the patient within 30 minutes of a call from the Administrative Officer of the Day (AOD).
+	•	At the end of the day, the Contractor shall provide the AOD with a list of passenger/patients who checked in after their appointment but left without informing the Contractor.
+	•	Passenger/patients who are admitted to the hospital will not be designated as a “Dry Run”.
+	•	ADD ON TRIPS
+	•	The Contractor shall provide same day “add-on” transportation trips (trips that are not pre-scheduled and are not return trips) when ordered by the VA.  These “add-on” trips may be required during and/or after normal work hours.  To order these add-on trips, the government will both phone in and fax to the Contractor the patient’s name, pick-up location, and time and location of the appointment.  The Contractor shall transport these patients ensuring that they arrive at the appointment location between 15 and 30 minutes prior to the appointment time.  If the Contractor is not able to honor these orders, they shall inform the VAMC of their inability to honor this type of order within 15 minutes of receiving the order.  Many of these patients will need transportation back to their residence after their appointment.  Such trips shall be considered return trips as specified in paragraph 7(a) above.   
+	•	DAYS OF TRANSPORTATION
+	•	The Contractor shall provide the service Monday through Sunday in accordance with IDIQ specifications and pricing schedule excluding National Holidays for all patients, except hemodialysis patients. 
+	•	NATIONAL HOLIDAYS
+	•	The Government observes the following National Holidays:
+ New Year’s Day		Martin Luther King Day
+Washington’s Birthday		Memorial Day
+Juneteenth			Independence Day		
+Labor Day			Columbus Day			
+Veterans’ Day 			Thanksgiving			
+Christmas Day 
+	•	The Government also observes any day specifically declared by the President of the United States to be a Federal holiday.  
+	•	The Contractor shall provide transportation to Hemodialysis patients on Monday through Sundays and National Holidays except Thanksgiving and Christmas.
+	•	SPECIAL PATIENT REQUIREMENTS
+	•	Some patients will require special assistance with a wheelchair or scooter.  Drivers shall assist wheelchair and scooter patients from his/her door to the vehicle. Patients cannot be transported while strapped into their scooter.  If the scooter cannot fit on the vehicle, the scooter will remain at the patient’s home and the Contractor shall transport the patient by wheelchair. 
+	•	If a patient has been identified as being "confused/demented" or is at risk of becoming lost, as stipulated on the VA's travel request, the driver shall ensure that the patient is escorted to his/her destination.  The VAMC will inform the driver on the travel list of the patient’s mental status or condition prior to departure.  When transporting a patient to his/her domicile or residence the contractor shall escort patient to the entrance and ensure that a relative or family designated representative assumes responsibility for the patient.  The driver shall annotate on the trip ticket the identity and or name of the responsible person at the residence. When transporting the patient to the Detroit VAMC, the driver shall be responsible for escorting at risk patients to the Travel Office of the JDDVAMC located in the Yellow Section, Room C1822 during normal business hours (7:30am – 4:00pm).  After 4:00 pm for at risk patients, the driver shall escort patients to the admitting area located in the Yellow Section/Building, Room C1900 of the JDDVAMC.  When transporting confused/demented or at risk patients to the CBOC’s, drivers shall escort the patients to the reception window for check in.
+	•	Driver shall not refuse transport to Veterans if able to maintain infection control precautions as outlined by the CDC.
+	•	PATIENT TRANSPORTATION LIMITATIONS
+	•	Except as specifically requested or approved by VA, no one other than the driver and the beneficiary shall ride in a vehicle.  Upon VA request, Contractor shall transport designated individuals with the veteran at no additional cost.  Such designated individuals may include a beneficiary’s wife, husband, significant other, designated caregiver or the police.  In addition, the Contractor may seek approval to transport more than one patient on a single trip on a case by case basis.  If approval is granted by the VA to transport more than one patient at a time, the Contractor shall ensure that both patients are comfortable and shall ensure that both patients arrive at their designated appointment location 15 to 30 minutes prior to the appointment time.  Contractor shall not transport VA patients with other non-VA customers of the Contractor.  The Contractor shall allow an alert or sightseeing dog to accompany a Veteran as needed. 
+	•	WAIT TIME
+	•	When time is lost at either end or both ends of a trip due to circumstances beyond the Contractor’s control, the Contractor may request reimbursement for waiting time.  If the pickup is other than at the VA Medical Center, the Contractor shall call the Travel Clerk on duty as soon as they anticipate a delay may develop for which the Contractor expects to claim reimbursement.  This call is for the purpose of verifying the Contractor’s arrival time at the pickup point and to alert the VA Travel Office of a delay in the patient boarding the vehicle.  The VA Travel Clerk will call the veteran to verify the potential delay prior to authorizing wait time.  This call is not necessary if the Contractor anticipates no delay for which they shall claim reimbursement.  
+	•	When waiting time is verified and authorized, the government will reimburse the Contractor at the applicable rate specified in the schedule, for each quarter hour after the 15 minute waiting period included in the base rate.  Waiting time can include time spent waiting both on and off VA premises and either at pick up or drop off when authorized by appropriate VAMC personnel.
+	•	All waiting time charges shall be authorized and supported by:
+	•	Notification to the Travel Clerk that the driver (vehicle) is in a waiting status.  At this point, information concerning reason for wait shall be provided, AND
+	•	Documentation to accompany the travel voucher shall be provided.
+	•	DRIVER RESPONSIBILITIES
+	•	All drivers shall be required to report to the Travel Clerk on duty (while they are still on the premises of the JDDVAMC) any time a pick-up, delivery or departure is made to and from the Detroit VAMC. The delivery and departure area for all patients will be specified by the Travel Clerk at the time the order is placed for services.  The driver shall have the travel voucher time and date stamped by the Travel Clerk when picking up a patient for transportation from the VA and when dropping off or delivering a patient at the VA.  The driver shall turn in the travel voucher to the travel office when dropping off the patient at the VA.
+	•	When a driver arrives at the Detroit VAMC to transport a patient, the Travel Clerk for the Administrative Officer will contact the inpatient or outpatient area to determine if the patient is ready.  Driver shall be required to assist patients to and from the vehicle as necessary. All travel vouchers shall be filled out on the day of service and shall be signed by authorized VA personnel. During normal work hours the travel clerk will be the individual authorized to sign the travel voucher.  For, afterhours, weekends and holidays, the Administrative Officer of the Day (AOD), in admitting, will be the individual authorized to sign travel voucher. If, during non-administrative hours, the AOD is not in the admitting area, a special place will be identified for the Contractor’s drivers to leave the vouchers for signature.
+	•	The Contractor shall deliver wheelchair patients as well as those who need to be escorted (such as those who are demented, Alzheimer's or similar) to the yellow section, Travel room C1822 of the JDDVAMC for checking in and shall have their travel vouchers signed.  The vouchers shall be signed by the Travel Clerk or the AOD for add-ons, scheduled patients and for no-shows / dry runs.   The Contractor shall inform the travel section of ambulatory patients that have arrived and have vouchers signed.  Vouchers shall be submitted timely and will be signed off as expeditiously as possible.  Travel section will ensure vouchers match patient pickups and drop offs.  If there are any discrepancies they will be handled as expeditiously as possible.  During non-administrative hours and when the AOD is not in the admitting area, a special place will be identified for the contractor's drivers to leave the vouchers for signature.  This will eliminate the Contractor waiting until the next business day to obtain a signature or the driver waiting for the return of the AOD.
+	•	When wheelchair, scooter or ambulatory transportation service under this BPA involves the pick-up of a patient scheduled to arrive by air, train or bus and the driver finds such patient does not arrive on schedule, the driver shall contact the Travel Clerk and inquire as to the status of the arrival.  If appropriate, waiting time may be authorized for the time spent in waiting in accordance with the applicable rate in the schedule.  If the Contractor reported as scheduled and no patient is transported, the Contractor will be reimbursed at the dry run rate.  It is very rare that there is a dry run to an airport, train station or to the bus station.
+	•	 OTHER PERFORMANCE REQUIREMENTS
+	•	The Contractor shall be responsible for furnishing all vehicles, personnel, equipment (to include regular and bariatric wheelchairs), supplies, vehicle fuel, and uniforms for performance of services under this BPA.  The Contractor’s employee identifications shall be worn in clear view above the waist at all times.  Contractor Employees will be fingerprinted and will be given badges by the VA.  Badges shall be worn in clear view above the waist at all times.  
+	•	The Contractor shall ensure drivers and patients use seat belts/securement devices at all times.  
+	•	The Contractor shall ensure there shall be no smoking by the driver, attendants, or patient(s).
+	•	The Contractor shall ensure patients shall be seated facing forward in vehicle during transit, when feasible.  Wheelchair occupant restraint systems shall be integrated by the vehicle manufacturer or approved by the vehicle manufacturer for use.  
+	•	VA-owned wheelchairs may not be removed from VA grounds. In addition to wheelchairs, the Contractor shall also be required to transport VA patients with their three-wheeled electric “amigo” carts.  However, unless the Contractor has approved restraining devices that allow the patient to ride on the cart, these patients will have to transfer to the standard passenger bench seat and wear the safety belt required for riding in that seat.  The driver shall secure the cart to keep it from moving and becoming a hazard during transit.  If the patient refuses to transfer to the passenger bench seat and/or refuses to wear the appropriate safety belt, the Contractor shall not transport the patient. 
+	•	If a patient being transported declines to be properly belted or removes the securement devices himself/herself, the driver shall immediately notify the VA travel office (or AOD if after hours) of this fact prior to departure or upon arrival at destination.  The Contractor is not required to transport any patient who refuses to be properly secured while being transported. 
+	•	The Contractor shall ensure, pursuant to VHA Directive 2008-020, that personal protective equipment (gloves) and spill kits are provided to drivers to ensure they are adequately prepared to address biological fluids.
+	•	The Contractor shall ensure, pursuant to VHA Directive 2008-020, that the transfer of clinical specimens with patient passengers shall comply with DOT and OSHA regulations:
+	•	Clinical staff giving specimens to drivers transporting patients must ensure compliance with the specimen identification, packing, and labeling requirements of OSHA 29 CFR 1910.1030, Blood borne Pathogens and Material of Trade (MOT) exception for Class 6, Division 6.2 substances of DOT 49 CFR 173.134.
+	•	The Contractor shall ensure all specimen packages shall be packed in a container, by the driver, secured to the vehicle body to prevent movement during driving and returned to patient once arrived at destination.
+	•	The Contractor shall ensure the driver is responsible for asking about specimens, for securing specimens during transportation, and for ensuring the patient or the responsible VA employee or caregiver has the specimen at the end of the trip.
+	•	REPORTING ACCIDENTS OR PATIENT INJURIES
+	•	The Contractor shall be responsible for reporting, in writing, all accidents, slips, falls, and mishaps to the travel section during normal business hours and to the Administrative Officer of the Day located in admitting after normal business hours, and on weekends.  All written reports shall be provided within 24 hours of incident.  A verbal report shall be provided immediately to the VA Travel Department.
+	•	Any injury or accident to a patient shall be reported immediately by the Contractor to the COR and/or the Travel Clerk.  The Contractor shall submit an injury report with copies forwarded to the COR for inclusion into the patient's administrative chart.  Upon notification of an accident, the Detroit VAMC will follow up with a call to the patient to determine if the patient needs to be seen by a physician.  If off the premises and patient requests, or is in obvious need of immediate medical help, the driver is to call 911.  If on the premises, and the patient requests, or is in obvious need of immediate medical help, the Contractor shall immediately contact the admitting staff.  The Contractor shall ensure that patient falls, whether due to incumbent weather, medical conditions, while on a stretcher or in a wheelchair, even while transiting from the Contractor's vehicle to/from this facility, shall be reported immediately and the necessary documentation shall be provided by the Contractor within 24 hours of the incident.  
+	•	REPORTING COMPLAINTS
+	•	All complaints that the government receives from patients regarding Contractor’s performance will be documented on a Report of Contact form by the COR and/or Travel Clerk and will be reported to the Contractor for investigation. The Contractor’s supervisory official shall provide the COR and/or the Travel Clerk written results of the investigation and actions taken to resolve the matter.  Examples of complaints may include but not limited to:
+	•	Any allegation of inappropriate behavior including allegations that Contractor personnel used, profanity, made inappropriate comments, or failed to exhibit caring, compassionate professional customer service in accordance with the VA’s mission, vision and values will be documented by the COR and the Travel Clerk and reported to the Contractor.  The investigation's results shall be forwarded to the COR within five (5) working days of the initial submission or notification of the incident occurring.  
+	•	Any complaints filed by patients against Contractor personnel that allege Sexual Harassment, EEO violations or any violations of Federal Laws, rules and regulations as well as the JDDVAMC’s policy concerning smoking will be reported to the Contractor's supervisory official upon notification. The results of the investigation will be maintained in the strictest confidentiality as applicable under the Privacy Act of 1974.  
+	•	The government will provide all reported customer service complaints to the Contractor in writing within 24 hours of the government receiving the complaint.
+	•	Contractor shall report any misconduct exhibited by the patient to the COR and/or Travel Clerk in writing within 24 hours.  The VA travel clerk will provide a written response within 72 hours upon receipt of incident to the Contracting Officer.
+	•	VEHICLE SECURITY
+	•	While on the VA grounds, the Contractor shall secure vehicles when left unattended.  If vehicle must be left unattended with the motor running, a second set of keys shall be necessary, so that the vehicle can be securely locked.  The driver shall carry the second set of keys.
+	•	The Contractor shall be authorized to park in designated parking areas located in the lower level of the Blue Parking Deck structure (Canfield) of the Detroit VAMC and/or other designated areas stipulated by the VAMC’s Protection & Support Service. The Contractor shall not park their vehicles in the designated parking area for anything other than picking up patients.  Overnight or storage of the Contractor’s vehicles in this area is not permitted and will result in a violation.
+	•	Contractor shall be required to follow all medical centers’ policies regarding parking.
+	•	PRICING
+	•	The price for transportation shall be calculated as follows:
+   		Base Rate (includes costs defined below)
+		+ Mileage Rate (loaded miles traveled in excess of 20 miles)
+		+ Authorized waiting time
+  		= Rate per trip
+	•	For all one-way trips ordered under this solicitation, the Contractor shall receive the Base Rate.  Furthermore, the Base Rate shall constitute full compensation for one-way trips that do not exceed twenty miles. The Base Rate price includes all costs associated with pick-up and drop off costs associated with 15 minutes of waiting time at pick up and 15 minutes of waiting time at drop off, and all costs associated with traveling 20 miles or less.
+	•	For one way trips that exceed 20 miles, the Contractor shall receive the Base Rate plus the mileage rate for each mile traveled in excess of 20 miles.  The Mileage Rage is applicable only for the mileage in excess of 20 miles. 
+	•	One Way:  One way, as used in this IDIQ, references the point from patient pick up to the point of passenger's designated delivery (drop off).
+	•	Contractor shall ensure that the patient arrives for their appointment at the Detroit VAMC a minimum of 15 minutes prior to their designated appointment time, but no earlier than 30 minutes prior to their appointment.
+	•	When more than one patient is transported, the Contractor shall bill the Base Rate for each patient transported.  If the trip exceeds 20 miles, the Contractor shall calculate mileage and bill based on the longest distance involved in transporting only one patient.
+	•	MILEAGE CALCULATION
+	•	The Contractor shall use BINGMAPS.com to verify mileage however, the odometer stop-and-start readings for each trip will be the official mileage.
+	•	Beneficiary Travel Dashboard: The Beneficiary Travel (BT) Dashboard is the VA standard for determining distances for purposes of BT mileage reimbursement. In most cases the Dashboard provides the appropriate and most direct route by distance to the VA or VA authorized facility of care. However, in some situations the Dashboard has been designating routes that are impassable or inappropriate for the Veteran’s medical condition. The following provides guidance as to circumstances where the initial Dashboard route can be determined unusable and how the Dashboard can establish an alternate route.
+	•	Route Exceptions and Procedures for Determining Alternate Route
+	•	Circumstances That Make Closest Distance Route Inappropriate:
+	•	Road closed due to weather conditions
+	•	Road closed due to construction
+	•	Roads not accessible to general public such as through a military base, restricted area etc. Portions of trip over roads, trails, paths not accessible by car.
+	•	Clinical determination by Veteran’s VA provider that condition precludes travel by closest distance route (e.g. Veteran cannot travel over “rough roads.”).
+	•	Determination of Alternate Route 
+	•	When it is determined that one of the above conditions has occurred an alternate route with associated mileage can be established using the Dashboard as outlined by the following procedure (alternate online tools, e.g., Map Quest, Rand McNally etc. or other methodologies shall NOT be used).  
+	•	Documentation of Alternate Route
+	•	Local procedures shall be established to:
+	•	Delegate in writing authority to establish an alternate route
+	•	Maintain record of approved alternate route on the approved claim and the reason for the alternative route for audit purposes 
+	•	Dashboard Alternate Route Determination Procedure	
+	•	Open the map capture the destination location B with the hand that is visible in the map, left click on the mouse, and hold the capture as you move the destination location to a passable location on the route before the closed road, or to an appropriate route.
+	•	Move the destination location to a spot before the outage at an intersection of road that can be traveled.  Enlarge the map as you make moves of point B to select the best location.
+	•	Click on add destination C and enter the next town diverting the map to a passable road.  Then add destination D and enter the address of the appointment.  Click Go to calculate the route and mileage.
+	•	Record the new mileage.
+	•	Monitor the outage to correct at later date
+	•	BILLING
+	•	Invoices shall be submitted twice a month to the VA’s Financial Services Center by way of establishing an account at Tungsten Network.
+	•	Invoices shall be submitted by the Contractor by the 21st day of the month for trips provided from the 1st to the 15th of the month.  For trips provided from the 16th to the month’s end, invoices shall be submitted by the 7th day of the following month.  The invoices shall only have trips for the billed month.  If a corrected invoice must be submitted, it shall be on a separate invoice.
+	•	Payments are authorized in arrears and only upon receipt of a properly prepared invoice.  VA will pay the Contractor in accordance with the Prompt Payment Act; normally this is within 30 days of receipt of a properly prepared invoice.  Detroit VAMC personnel will certify the accuracy of each invoice before payment is issued.
+	•	The Contractor shall include on all invoices the following information for each trip billed per patient:
+	•	Odometer reading at beginning of trip
+	•	Odometer reading at pick up of veteran
+	•	Odometer reading at end of trip
+	•	Date of transportation
+	•	Patient’s Full Name
+	•	Last 4 of Social Security Number
+	•	Pick up point including Zip Code  
+	•	Destination / Drop off point including Zip Code
+	•	Basic Rate
+	•	Mileage cost (if appropriate)
+	•	Waiting Time (if appropriate)
+	•	Total (this shall include all cost e.g. basic rate plus additional costs if applicable)
+	•	Dry runs (yes or no)
+	•	Each page of the invoice shall be totaled at the end of each page/column where appropriate.  The invoice shall be a summary of the backup documentation. 
+	•	PATIENT INFORMATION SECURITY
+	•	Sensitive patient health information maintained by the Contractor, i.e. patient transportation lists, invoices or any other documentation reflecting patient information, shall be shredded as follows:
+	•	All shredder machines shall meet level 5 requirements and the container cannot be larger than 32 gallons.  The VA reserves the right to perform periodic audits on shredding processes.
+	•	If the Contractor subcontracts the shredding service, the following guidelines shall be met:
+	•	Shredding shall be done on site at the subcontractor location, via mobile shredding vehicle, 3/8” to ½” cross cut and tare. The subcontractor shall transport the shredding materials to a secure facility in order to meet the final requirement where someone is watching the shredding process.  The subcontractor is required to maintain certifications of responsibility and provide documentation that the material met final requirement.  The subcontractor shall maintain the required and appropriate insurance and indemnifications for liability coverage for any and all incidences of occurrence resulting from any information breach that they are responsible for throughout the term of the agreement.
+	•	The subcontractor shall provide locked security containers that will hold all paper products for shredding, including color paper, color copy, and file folders.
+	•	Consoles are to be constructed with a deadbolt lock and an offset document slot to prevent unauthorized removal of material.  The unit is to securely hold approximately 100 pounds of material and cannot be larger than 32 gallons.
+	•	Collection and on-site destruction of all contents shall be maintained in locked security containers and stored in a secured locked area.
+	•	Quarterly Security Audits are to be performed by the contractor with documented results mailed to the following address:
+John D. Dingell VA Medical Center
+Attention: Ms. Eleanor Shaw
+4646 John R. Street
+Detroit, Michigan 48201
+	•	Certificate of Destruction following each shredding service will be mailed to JDDVAMC at the address identified in (v).
+	•	JOINT COMMISSION REQUIREMENTS
+	•	The Contractor shall be responsible to ensure Contractor employees performing work on this BPA are fully trained and completely competent to perform the required work.  The drivers shall (1) possess a safe driving record, (2) possess a valid State of Michigan license (having passed the State of Michigan Road Test), (3) Demonstrate that they are medically qualified to operate the appropriate motor vehicle safely.  
+	•	The Contractor shall meet or exceed all regulatory agency requirements including patient care, patient confidentiality and safety standards.
+	•	Upon award, successful Contractor shall submit copies of insurance certificates as outlined in VAAR 852.228-71 and Supplemental Insurance Requirements (FAR 28.307-2) as described in this IDIQ.  Contractors shall pay U.S. Department of Labor Wage Rates as specified in this IDIQ.  
+	•	DEFINITIONS
+	•	Wheelchair/Scooter services:  transportation services provided to a patient in wheelchair or scooter.
+	•	Ambulatory Service:  patient able to walk on his/her own.
+	•	Base Area:  is the first 20 loaded miles driven. 
+	•	Base Rate:  rate paid for any trip 20 miles or less.
+	•	Mileage Rate:  rate paid per mile for mileage over the base area/base rate.  A contractor may charge the base rate for each authorized one-way trip plus any mileage charges over the 20 mile base area.
+	•	Too early: patient(s) arriving at appointment location more than 30 minutes before their scheduled appointment.
+	•	Too late: patient(s) arriving 15 minutes or more past their scheduled appointment.
+	•	Dry runs:  When contractor arrives at patient pick –up location, but due to circumstances that are both outside the control of the Contractor and unforeseeable, the patient is not transported anywhere.  (Ex. Veteran confirms availability for pick-up over the phone, but then refuses transportation after the Contractor has arrived at the Veteran’s residence.)
+	•	Destination: shall mean the specific clinic where the patient has an appointment.
+	•	QUALITY CONTROL PLAN
+	•	The contractor shall maintain a Quality Control Plan (QCP) that contains, at a minimum, the following:
+	•	A description of the company’s organizational structure including a description of the roles and responsibilities of management and supervisors. 
+	•	A description of the methods to be used by the contractor for identifying and preventing deficiencies or problems in the quality of service.
+	•	 A description of the specific steps the contractor will take for corrective action if needed if a deficiency or problem in the quality of service occurs.
+	•	 A description of the company’s records and tracking system used to identify up-to- date background checks, applicable certifications and tests, and training of each employee performing services under this contract.
+	•	 A description of the method used to provide on-time ambulance services to meet the requirements of this contract (24/7 availability and up to 4 simultaneous transports in accordance with PWS 4.5.1.7).
+	•	 A description of the methods used to identify and prevent radio communication breakdowns and a detailed procedure for alternative communications in the event of electronic and mechanical breakdown of vehicle two-way radios.
+	•	CONTENGENCY PLAN: (In case VetRide Vendor Portal is down) A description of the method/system used to log all requests for service. The contractor shall confirm that the log indicates the date and time of service call, actual time of pick-up versus the scheduled time, name of patient requiring services, designated pick-up and delivery points, mileage, and actual waiting time at pick-up and delivery points if waiting charges are claimed. The contractor shall confirm the log will be sent to the COR monthly.
+	•	 The Government will evaluate the contractor’s performance under this contract to ensure that the contractor’s QCP is adequate, and that quality is achieved through a Quality Assurance Surveillance Plan (QASP).
+	•	 The Government shall prepare a QASP after contract award derived from the PWS and contractor’s submitted quality control plan. The QASP is a “living document” and the Government may review and revise it at any time. However, the Government shall coordinate changes to the QASP with the contractor.
+	•	 The QASP will specify the work requiring surveillance and the Government’s method of surveillance.
+	•	Minimum performance standards:
+	•	The contractor shall maintain performance standards in accordance with the standards outlined in the table below.  Failure to meet the Acceptable Quality Levels (AQL) may result in termination of the contract.
+	•	 The QASP will include the standards below as well as others derived from the successful offeror’s quality control plan.
+
+
+SS
+Performance Objective -Task
+PWS Para
+Standard
+Performance Threshold
+Method of Surveillance
+SS 1
+Provide on- time transportation service to appointments  
+Para. 6
+Shall ensure all passengers arrive at their designated appointment location 15 to 30 minutes prior to the appointment time.
+95% Compliance
+Random Monitoring
+SS 2
+Provide on- time transportation service – return trips
+Para. 7
+Passenger picked up within 30 minutes of call from the VTS/AOD.
+97%
+Customer Feedback
+SS 3
+Incident Reporting 
+Para. 16
+The Contractor shall submit all injury reports within 24 hours of incident to the VTS/COR and AOD for inclusion into the passenger’s administrative chart.
+97% Compliance
+Random Monitoring
+SS4
+Invoice Reports
+Para. 21
+The Contractor shall submit invoices with required information contained in the PWS.
+95% Compliance
+100% 
+Surveillance
+SS5
+Vehicle Requirements accomplish all services under this contract.
+
+Para. 2
+Contractor to maintain fleet of vehicles in accordance with paragraph 2  of the PWS to include providing reports quarterly and upon request of the COR or CO.
+95% Compliance
+Periodic Inspection
+SS6
+Drivers shall complete training requirements outlined in this PWS
+Para. 4
+Contractor to ensure drivers meet training requirements of paragraph 4
+95%
+Periodic Inspection
+
+
+B.3 PRICE/COST SCHEDULE
+The guaranteed minimum only applies to the Federal Government Fiscal Year in which the contract is awarded. The guaranteed minimum is $15,000.00.  The Government does not guarantee, nor is it obligated, to place any orders under this contract in excess of the guaranteed minimum.  The maximum total value of the contract, inclusive of all option periods exercised, shall not exceed $7,400,000.00. Individual task orders will be funded annually. The Contracting Officer is the only authorized individual that can place annual task orders against this contract for the estimated amount of services for the specific timeframe, and the task orders shall be issued to the contractor. Offerors shall offer pricing for the entire estimated quantity for each CLIN.
+Contractor must fill out the attached document, Price-Cost Schedule – Non Emergent Patient Transportation. The document must be returned to the contracting officer as part of the quote.
+Only yellow highlighted cells need filled in.  Extended price will auto-calculate.
+B.4 REVIEW REQUIRED REGISTRATION WITH CONTRACTOR PERFORMANCE ASSESSMENT SYSTEM (CPARS)
+As prescribed in Federal Acquisition Regulation (FAR) Part 42.15, the Department of Veterans Affairs (VA) evaluates contractor past performance on all contracts that exceed $250,000, and shares those evaluations with other Federal Government contract specialists and procurement officials.  The FAR requires that the contractor be provided an opportunity to comment on past performance evaluations prior to each report closing.  To fulfill this requirement VA uses an online database, CPARS, which is maintained by the Naval Seal Logistics Center in Portsmouth, Virginia.  CPARS has connectivity with the Past Performance Information Retrieval System (PPIRS) database, which is available to all Federal agencies. PPIRS is the system used to collect and retrieve performance assessment reports used in source selection determinations and completed CPARS report cards transferred to PPIRS.  CPARS also includes access to the federal awardee performance and integrity information system (FAPIIS).  FAPIIS is a web-enabled application accessed via CPARS for contractor responsibility determination information.
+Each contractor whose contract award is estimated to exceed $250,000 is required to register with CPARS database at the following web address: www.cpars.csd.disa.mil.  Help in registering can be obtained by contacting Customer Support Desk @ DSN: 684-1690 or COMM: 207-438-1690. Registration should occur no later than thirty days after contract award, and must be kept current should there be any change to the contractor's registered representative.  
+For contracts with a period of one year or less, the contracting officer will perform a single evaluation when the contract is complete.  For contracts exceeding one year, the contracting officer will evaluate the contractor's performance annually.  Interim reports will be filed each year until the last year of the contract, when the final report will be completed.  The report shall be assigned in CPARS to the contractor's designated representative for comment.  The contractor representative will have sixty days to submit any comments and re-assign the report to the VA contracting officer.  
+Failure to have a current registration in the CPARS database, or to re-assign the report to the VA contracting officer within those sixty days, will result in the Government's evaluation being placed on file in the database with a statement that the contractor failed to respond.
+SECTION C - CONTRACT CLAUSES
+
+ADDENDUM to FAR 52.212-4 CONTRACT TERMS AND CONDITIONS—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES
+  Clauses that are incorporated by reference (by Citation Number, Title, and Date), have the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available.
+  The following clauses are incorporated into 52.212-4 as an addendum to this contract:
+C.1  52.216-18 ORDERING (AUG 2020)
+  (a) Any supplies and services to be furnished under this contract shall be ordered by issuance of delivery orders or task orders by the individuals or activities designated in the Schedule. Such orders may be issued from January 1, 2025 through December 31, 2027.
+  (b) All delivery orders or task orders are subject to the terms and conditions of this contract. In the event of conflict between a delivery order or task order and this contract, the contract shall control.
+  (c) A delivery order or task order is considered "issued" when—
+    (1) If sent by mail (includes transmittal by U.S. mail or private delivery service), the Government deposits the order in the mail;
+    (2) If sent by fax, the Government transmits the order to the Contractor’s fax number; or
+    (3) If sent electronically, the Government either—
+      (i) Posts a copy of the delivery order or task order to a Government document access system, and notice is sent to the Contractor; or
+      (ii) Distributes the delivery order or task order via email to the Contractor’s email address.
+  (d) Orders may be issued by methods other than those enumerated in this clause only if authorized in the contract.
+(End of Clause)
+C.2  52.216-19 ORDER LIMITATIONS (OCT 1995)
+  (a) Minimum order.  When the Government requires supplies or services covered by this contract in an amount of less than $500.00, the Government is not obligated to purchase, nor is the Contractor obligated to furnish, those supplies or services under the contract.
+  (b) Maximum order.  The Contractor is not obligated to honor—
+    (1) Any order for a single item in excess of $2,500.000.00;
+    (2) Any order for a combination of items in excess of $2,500,000.00; or
+    (3) A series of orders from the same ordering office within 365 days that together call for quantities exceeding the limitation in paragraph (b)(1) or (2) of this section.
+  (c) If this is a requirements contract (i.e., includes the Requirements clause at subsection 52.216-21 of the Federal Acquisition Regulation (FAR)), the Government is not required to order a part of any one requirement from the Contractor if that requirement exceeds the maximum-order limitations in paragraph (b) of this section.
+  (d) Notwithstanding paragraphs (b) and (c) of this section, the Contractor shall honor any order exceeding the maximum order limitations in paragraph (b), unless that order (or orders) is returned to the ordering office within ten days after issuance, with written notice stating the Contractor's intent not to ship the item (or items) called for and the reasons.  Upon receiving this notice, the Government may acquire the supplies or services from another source.
+(End of Clause)
+C.3  52.216-22 INDEFINITE QUANTITY (OCT 1995)
+  (a) This is an indefinite-quantity contract for the supplies or services specified, and effective for the period stated, in the Schedule.  The quantities of supplies and services specified in the Schedule are estimates only and are not purchased by this contract.
+  (b) Delivery or performance shall be made only as authorized by orders issued in accordance with the Ordering clause.  The Contractor shall furnish to the Government, when and if ordered, the supplies or services specified in the Schedule up to and including the quantity designated in the Schedule as the "maximum." The Government shall order at least the quantity of supplies or services designated in the Schedule as the "minimum."
+  (c) Except for any limitations on quantities in the Order Limitations clause or in the Schedule, there is no limit on the number of orders that may be issued.  The Government may issue orders requiring delivery to multiple destinations or performance at multiple locations.
+  (d) Any order issued during the effective period of this contract and not completed within that period shall be completed by the Contractor within the time specified in the order.  The contract shall govern the Contractor's and Government's rights and obligations with respect to that order to the same extent as if the order were completed during the contract's effective period; provided, that the Contractor shall not be required to make any deliveries under this contract after December 31, 2027.
+(End of Clause)
+C.4  52.217-8 OPTION TO EXTEND SERVICES (NOV 1999)
+  The Government may require continued performance of any services within the limits and at the rates specified in the contract. These rates may be adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than once, but the total extension of performance hereunder shall not exceed 6 months. The Contracting Officer may exercise the option by written notice to the Contractor within 30 days of contract expiration.  The specified rates under this clause will be those rates in effect under the contract each time an option is exercised under this clause.
+(End of Clause)
+C.5  52.232-19  AVAILABILITY OF FUNDS FOR THE NEXT FISCAL YEAR  (APR 1984)
+  Funds are not presently available for performance under this contract beyond December 31, 2025.  The Government's obligation for performance of this contract beyond that date is contingent upon the availability of appropriated funds from which payment for contract purposes can be made.  No legal liability on the part of the Government for any payment may arise for performance under this contract beyond December 31, 2025, until funds are made available to the Contracting Officer for performance and until the Contractor receives notice of availability, to be confirmed in writing by the Contracting Officer.
+(End of Clause)
+C.6  VAAR 852.201-70  CONTRACTING OFFICER'S REPRESENTATIVE (DEC 2022)
+  The Contracting Officer reserves the right to designate representatives to act for him/her in furnishing technical guidance and advice or generally monitor the work to be performed under this contract. Such designation will be in writing and will define the scope and limitation of the designee’s authority. A copy of the designation letter shall be furnished to the Contractor.
+(End of Clause)
+C.7  VAAR 852.203-70 COMMERCIAL ADVERTISING (MAY 2018)
+  The Contractor shall not make reference in its commercial advertising to Department of Veterans Affairs contracts in a manner that states or implies the Department of Veterans Affairs approves or endorses the Contractor’s products or services or considers the Contractor’s products or services superior to other products or services.
+(End of Clause)
+C.8  VAAR 852.219-73  VA NOTICE OF TOTAL SET-ASIDE FOR CERTIFIED SERVICE-DISABLED VETERAN-OWNED SMALL BUSINESSES  (JAN 2023) (DEVIATION)
+  (a) Definition. for the Department of Veterans Affairs, ‘‘Service-disabled Veteran-owned small business concern or SDVOSB’’:
+    (1) Means a small business concern—
+      (i) Not less than 51 percent of which is owned by one or more service-disabled Veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled Veterans or eligible surviving spouses (see VAAR 802.201, Surviving Spouse definition);
+      (ii) The management and daily business operations of which are controlled by one or more service-disabled Veterans (or eligible surviving spouses) or, in the case of a service-disabled Veteran with permanent and severe disability, the spouse or permanent caregiver of such Veteran;
+      (iii) The business meets Federal small business size standards for the applicable North American Industry Classification System (NAICS) code identified in the solicitation document;
+      (iv) The business has been certified for ownership and control pursuant to 38 U.S.C. 8127, 13 CFR 128, and is listed as certified in the SBA certification database at https://veterans.certify.sba.gov/; and
+      (v) The business agrees to comply with VAAR subpart 819.70 and Small Business Administration (SBA) regulations regarding small business size, government contracting, and the Veteran Small Business Certification Program at 13 CFR parts 121, 125, and 128.
+    (2) The term ‘‘Service-disabled Veteran’’ means a Veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
+    (3) The term ‘‘small business concern’’ has the meaning given that term under section 3 of the Small Business Act (15 U.S.C. 632).
+    (4) The term ‘‘small business concern owned and controlled by Veterans with service-connected disabilities’’ has the meaning given the term ‘‘small business concern owned and controlled by service-disabled veterans’’ under section 3(q)(2) of the Small Business Act (15 U.S.C. 632(q)(2)).
+    (5) The term “SDVOSB participant” or certified SDVOSB means a small business that has been certified in the SBA Veteran Small Business Certification Program and listed in the SBA certification database (see 13 CFR 128.102).
+  (b) General. In order for a concern to submit an offer and be eligible for the award of an SDVOSB set-aside or sole source contract, the concern must qualify as a small business concern under the size standard corresponding to the NAICS code assigned to the contract and be listed as an SDVOSB participant in the SBA certification database as set forth in 13 CFR 128. 
+    (1) Offers received from entities that are not certified SDVOSBs and listed in the SBA certification database at the time of offer shall not be considered.
+    (2) Any award resulting from this solicitation shall be made to a certified SDVOSB listed in the SBA certification database who is eligible at the time of submission of offer(s) and at the time of award.
+    (3) The requirements in this clause apply to any contract, order or subcontract where the firm receives a benefit or preference from its designation as an SDVOSB, including set-asides, sole source awards, and evaluation preferences.
+  (c) Representation. Pursuant to 38 U.S.C. 8127(e), only certified SDVOSBs listed in the SBA certification database are considered eligible to receive award of a resulting contract. By submitting an offer, the prospective contractor represents that it is an eligible and certified SDVOSB as defined in this clause, 13 CFR 121, 125, and 128, and VAAR subpart 819.70.
+  (d) Agreement/LOS certification. When awarded a contract action, including orders under multipleaward contracts, an SDVOSB agrees that in the performance of the contract, the SDVOSB shall comply with requirements in VAAR subpart 819.70 and SBA regulations on small business size, and government contracting programs at 13 CFR part 121 and part 125, including the non-manufacturer rule and limitations on subcontracting (LOS) requirements in 13 CFR 121.406(b) and 13 CFR 125.6. For the purpose of limitations on subcontracting, only certified SDVOSBs listed in the SBA certification database (including independent contractors) shall be considered eligible and/or ‘‘similarly situated’’ (i.e., a firm that has the same small business program status as the prime contractor). An otherwise eligible firm further agrees to comply with the required LOS certification requirements in this solicitation (see 852.219–75 or 852.219–76 as applicable). These requirements are summarized as follows:
+    (1) Services. In the case of a contract for services (except construction), the SDVOSB prime contractor will not pay more than 50% of the amount paid by the government to the prime for contract performance to firms that are not certified SDVOSBs listed in the SBA certification database (excluding direct costs to the extent they are not the principal purpose of the acquisition and the SDVOSB/ VOSB does not provide the service, such as airline travel, cloud computing services, or mass media purchases). When a contract includes both services and supplies, the 50 percent limitation shall apply only to the service portion of the contract.
+    (2) Supplies/products.
+      (i) In the case of a contract for supplies or products (other than from a non-manufacturer of such supplies), the SDVOSB prime contractor will not pay more than 50% of the amount paid by the government to the prime for contract performance, excluding the cost of materials, to firms that are not certified SDVOSBs listed in the SBA certification database. When a contract includes both supply and services, the 50 percent limitation shall apply only to the supply portion of the contract.
+      (ii) In the case of a contract for supplies from a non-manufacturer, the SDVOSB prime contractor will supply the product of a domestic small business manufacturer or processor, unless a waiver as described in 13 CFR 121.406(b)(5) has been granted. Refer to 13 CFR 125.6(a)(2)(ii) for guidance pertaining to multiple item procurements.
+    (3) General construction. In the case of a contract for general construction, the SDVOSB prime contractor will not pay more than 85% of the amount paid by the government to the prime for contract performance, excluding the cost of materials, to firms that are not certified SDVOSBs listed in the SBA certification database.
+    (4) Special trade construction contractors. In the case of a contract for special trade contractors, no more than 75% of the amount paid by the government to the prime for contract performance, excluding the cost of materials, may be paid to firms that are not certified SDVOSBs listed in the SBA certification database.
+    (5) Subcontracting. An SDVOSB subcontractor must meet the NAICS size standard assigned by the prime contractor and be certified and listed in the SBA certification database to count as similarly situated. Any work that a first tier SDVOSB subcontractor further subcontracts will count towards the percent of subcontract amount that cannot be exceeded. For supply or construction contracts, the cost of materials is excluded and not considered to be subcontracted. When a contract includes both services and supplies, the 50 percent limitation shall apply only to the portion of the contract with the preponderance of the expenditure upon which the assigned NAICS is based. For information and more specific requirements, refer to 13 CFR 125.6.
+  (e) Required limitations on subcontracting compliance measurement period. An SDVOSB shall comply with the limitations on subcontracting as follows:
+[] By the end of the base term of the contract or order, and then by the end of each subsequent option period; or
+[X] By the end of the performance period for each order issued under the contract.
+  (f) Joint ventures. A joint venture may be considered eligible as an SDVOSB if the joint venture complies with the requirements in 13 CFR 128.402 and the managing joint venture partner makes the representations under paragraph (c) of this clause. A joint venture agrees that, in the performance of the contract, the applicable percentage specified in paragraph (d) of this clause will be performed by the aggregate of the joint venture participants.
+  (g) Precedence. The VA Veterans First Contracting Program, as defined in VAAR 802.101, subpart 819.70, and this clause, takes precedence over any inconsistencies between the requirements of the SBA Veteran Small Business Certification Program and the VA Veterans First Contracting Program.
+  (h) Misrepresentation. Pursuant to 38 U.S.C. 8127(g), any business concern, including all its principals, that is determined by VA to have willfully and intentionally misrepresented a company’s SDVOSB status is subject to debarment from contracting with the Department for a period of not less than five years (see VAAR 809.406–2 Causes for Debarment).
+(End of Clause)
+C.9  VAAR 852.219-75  VA NOTICE OF LIMITATIONS ON SUBCONTRACTING—CERTIFICATE OF COMPLIANCE FOR SERVICES AND CONSTRUCTION (JAN 2023) (DEVIATION)
+  (a) Pursuant to 38 U.S.C. 8127(l)(2), the offeror certifies that—
+    (1) If awarded a contract (see FAR 2.101 definition), it will comply with the limitations on subcontracting requirement as provided in the solicitation and the resultant contract, as follows:
+      (i) [X] Services. In the case of a contract for services (except construction), the contractor will not pay more than 50% of the amount paid by the government to it to firms that are not certified SDVOSBs listed in the SBA certification database as set forth in 852.219–73 or certified VOSBs listed in the SBA certification database as set forth in 852.219–74. Any work that a similarly situated certified SDVOSB/VOSB subcontractor further subcontracts will count towards the 50% subcontract amount that cannot be exceeded. Other direct costs may be excluded to the extent they are not the principal purpose of the acquisition and small business concerns do not provide the service as set forth in 13 CFR 125.6.
+      (ii) [] General construction. In the case of a contract for general construction, the contractor will not pay more than 85% of the amount paid by the government to it to firms that are not certified SDVOSBs listed in the SBA certification database as set forth in 852.219–73 or certified VOSBs listed in the SBA certification database as set forth in 852.219–74. Any work that a similarly situated certified SDVOSB/VOSB subcontractor further subcontracts will count towards the 85% subcontract amount that cannot be exceeded. Cost of materials are excluded and not considered to be subcontracted.
+      (iii) [] Special trade construction contractors. In the case of a contract for special trade contractors, the contractor will not pay more than 75% of the amount paid by the government to it to firms that are not certified SDVOSBs listed in the SBA certification database as set forth in 852.219–73 or certified VOSBs listed in the SBA certification database as set forth in 852.219–74. Any work that a similarly situated certified SDVOSB/VOSB subcontractor further subcontracts will count towards the 75% subcontract amount that cannot be exceeded. Cost of materials are excluded and not considered to be subcontracted.
+    (2) The offeror acknowledges that this certification concerns a matter within the jurisdiction of an Agency of the United States. The offeror further acknowledges that this certification is subject to Title 18, United States Code, Section 1001, and, as such, a false, fictitious, or fraudulent certification may render the offeror subject to criminal, civil, or administrative penalties, including prosecution.
+    (3) If VA determines that an SDVOSB/ VOSB awarded a contract pursuant to 38 U.S.C. 8127 did not act in good faith, such SDVOSB/VOSB shall be subject to any or all of the following:
+      (i) Referral to the VA Suspension and Debarment Committee;
+      (ii) A fine under section 16(g)(1) of the Small Business Act (15 U.S.C. 645(g)(1)); and
+      (iii) Prosecution for violating 18 U.S.C. 1001.
+  (b) The offeror represents and understands that by submission of its offer and award of a contract it may be required to provide copies of documents or records to VA that VA may review to determine whether the offeror complied with the limitations on subcontracting requirement specified in the contract. Contracting officers may, at their discretion, require the contractor to demonstrate its compliance with the limitations on subcontracting at any time during performance and upon completion of a contract if the information regarding such compliance is not already available to the contracting officer. Evidence of compliance includes, but is not limited to, invoices, copies of subcontracts, or a list of the value of tasks performed.
+  (c) The offeror further agrees to cooperate fully and make available any documents or records as may be required to enable VA to determine compliance with the limitations on subcontracting requirement. The offeror understands that failure to provide documents as requested by VA may result in remedial action as the Government deems appropriate.
+  (d) Offeror completed certification/fill-in required. The formal certification must be completed, signed and returned with the offeror’s bid, quotation, or proposal. The Government will not consider offers for award from offerors that do not provide the certification, and all such responses will be deemed ineligible for evaluation and award.
+Certification
+I hereby certify that if awarded the contract, [insert name of offeror] will comply with the limitations on subcontracting specified in this clause and in the resultant contract. I further certify that I am authorized to execute this certification on behalf of [insert name of offeror].
+Printed Name of Signee: ___________
+Printed Title of Signee: _____________
+Signature: ____________
+Date: ______________
+Company Name and Address: _______________
+(End of Clause)
+C.10  VAAR 852.228-71 INDEMNIFICATION AND INSURANCE (MAR 2018)
+  (a) Indemnification. The Contractor expressly agrees to indemnify and save the Government, its officers, agents, servants, and employees harmless from and against any and all claims, loss, damage, injury, and liability, however caused, resulting from, arising out of, or in any way connected with the performance of work under this contract. Further, it is agreed that any negligence or alleged negligence of the Government, its officers, agents, servants, and employees, shall not be a bar to a claim for indemnification unless the act or omission of the Government, its officers, agents, servants, and employees is the sole, competent, and producing cause of such claims, loss, damage, injury, and liability. At the option of the Contractor, and subject to the approval by the Contracting Officer, insurance coverage may be employed as guaranty of indemnification.
+  (b) Insurance. Satisfactory insurance coverage is a condition precedent to award of this contract. In general, a successful bidder must present satisfactory evidence of full compliance with State and local requirements, or those below stipulated, whichever are the greater. More specifically, workers’ compensation and employer’s liability coverage will conform to applicable State law requirements for the service defined, whereas general liability and automobile liability of comprehensive type shall, in the absence of higher statutory minimums, be required in the amounts per vehicle used of not less than $200,000 per person and $500,000 per occurrence for bodily injury and $20,000 per occurrence for property damage. State-approved sources of insurance coverage ordinarily will be deemed acceptable to the Department of Veterans Affairs, subject to timely certifications by such sources of the types and limits of the coverages afforded by the sources to the bidder.
+(End of Clause)
+C.11  VAAR 852.232-72 ELECTRONIC SUBMISSION OF PAYMENT REQUESTS (NOV 2018)
+  (a) Definitions. As used in this clause—
+    (1) Contract financing payment has the meaning given in FAR 32.001;
+    (2) Designated agency office means the office designated by the purchase order, agreement, or contract to first receive and review invoices. This office can be contractually designated as the receiving entity. This office may be different from the office issuing the payment;
+    (3) Electronic form means an automated system transmitting information electronically according to the accepted electronic data transmission methods and formats identified in paragraph (c) of this clause. Facsimile, email, and scanned documents are not acceptable electronic forms for submission of payment requests;
+    (4) Invoice payment has the meaning given in FAR 32.001; and
+    (5) Payment request means any request for contract financing payment or invoice payment submitted by the contractor under this contract.
+  (b) Electronic payment requests. Except as provided in paragraph (e) of this clause, the contractor shall submit payment requests in electronic form. Purchases paid with a Government-wide commercial purchase card are considered to be an electronic transaction for purposes of this rule, and therefore no additional electronic invoice submission is required.
+  (c) Data transmission. A contractor must ensure that the data transmission method and format are through one of the following:
+    (1) VA’s Electronic Invoice Presentment and Payment System at the current website address provided in the contract.
+    (2) Any system that conforms to the X12 electronic data interchange (EDI) formats established by the Accredited Standards Center (ASC) and chartered by the American National Standards Institute (ANSI).
+  (d) Invoice requirements. Invoices shall comply with FAR 32.905.
+  (e) Exceptions. If, based on one of the circumstances in this paragraph (e), the Contracting Officer directs that payment requests be made by mail, the Contractor shall submit payment requests by mail through the United States Postal Service to the designated agency office. Submission of payment requests by mail may be required for—
+    (1) Awards made to foreign vendors for work performed outside the United States;
+    (2) Classified contracts or purchases when electronic submission and processing of payment requests could compromise the safeguarding of classified or privacy information;
+    (3) Contracts awarded by contracting officers in the conduct of emergency operations, such as responses to national emergencies;
+    (4) Solicitations or contracts in which the designated agency office is a VA entity other than the VA Financial Services Center in Austin, Texas; or
+    (5) Solicitations or contracts in which the VA designated agency office does not have electronic invoicing capability as described above.
+(End of Clause)
+C.12  VAAR 852.237-74  NON-DISCRIMINATION IN SERVICE DELIVERY (OCT 2019)
+  It is the policy of the Department of Veterans Affairs that no person otherwise eligible will be excluded from participation in, denied the benefits of, or subjected to discrimination in the administration of VA programs and services based on non-merit factors such as race, color, national origin, religion, sex, gender identity, sexual orientation, or disability (physical or mental). By acceptance of this contract, the Contractor agrees to comply with this policy in supporting the program and in performing the services called for under this contract. The Contractor shall include this clause in all subcontracts awarded under this contract for supporting or performing the specified program and services. Accordingly, the Contractor shall ensure that each of its employees, and any subcontractor staff, is made aware of, understands, and complies with this policy.
+(End of Clause)
+C.13  VAAR 852.237-75  KEY PERSONNEL (OCT 2019)
+  The key personnel specified in this contract are considered to be essential to work performance. At least 30 days prior to the Contractor voluntarily diverting any of the specified individuals to other programs or contracts the Contractor shall notify the Contracting Officer and shall submit a justification for the diversion or replacement and a request to replace the individual. The request must identify the proposed replacement and provide an explanation of how the replacement’s skills, experience, and credentials meet or exceed the requirements of the contract. If the employee of the Contractor is terminated for cause or separates from the contractor voluntarily with less than thirty days notice, the Contractor shall provide the maximum notice practicable under the circumstances. The Contractor shall not divert, replace, or announce any such change to key personnel without the written consent of the Contracting Officer. The contract will be modified to add or delete key personnel as necessary to reflect the agreement of the parties.
+(End of Clause)
+C.14  VAAR 852.242-71  ADMINISTRATIVE CONTRACTING OFFICER (OCT 2020)
+  The Contracting Officer reserves the right to designate an Administrative Contracting Officer (ACO) for the purpose of performing certain tasks/duties in the administration of the contract. Such designation will be in writing through an ACO Letter of Delegation and will identify the responsibilities and limitations of the ACO. A copy of the ACO Letter of Delegation will be furnished to the Contractor.
+(End of Clause)
+C.15  52.252-2  CLAUSES INCORPORATED BY REFERENCE  (FEB 1998)
+  This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available. Also, the full text of a clause may be accessed electronically at this/these address(es):
+  https://www.acquisition.gov/browse/index/far
+  https://www.va.gov/oal/library/vaar/
+  
+(End of Clause)
+FAR Number
+Title
+Date
+52.203-3
+GRATUITIES
+APR 1984
+52.204-13
+SYSTEM FOR AWARD MANAGEMENT MAINTENANCE
+OCT 2018
+52.204-18
+COMMERCIAL AND GOVERNMENT ENTITY CODE MAINTENANCE
+AUG 2020
+52.212-4
+CONTRACT TERMS AND CONDITIONS—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES
+NOV 2023
+52.224-1
+PRIVACY ACT NOTIFICATION
+APR 1984
+52.224-2
+PRIVACY ACT
+APR 1984
+52.237-3
+CONTINUITY OF SERVICES
+JAN 1991
+	(End of Addendum to 52.212-4)
+
+C.16  52.212-5  CONTRACT TERMS AND CONDITIONS REQUIRED TO IMPLEMENT STATUTES OR EXECUTIVE ORDERS—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (MAY 2024)
+  (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
+    (1) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
+    (2) 52.204–23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities (DEC 2023) (Section 1634 of Pub. L. 115–91).
+    (3) 52.204–25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115–232).
+    (4) 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations (NOV 2015).
+    (5) 52.232–40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801).
+    (6) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+    (7) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Public Laws 108-77 and 108-78 (19 U.S.C. 3805 note)).
+  (b) The Contractor shall comply with the FAR clauses in this paragraph (b) that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
+    [X]  (1) 52.203–6, Restrictions on Subcontractor Sales to the Government (JUN 2020), with Alternate I (NOV 2021) (41 U.S.C. 4704 and 10 U.S.C. 4655).
+    []  (2) 52.203–13, Contractor Code of Business Ethics and Conduct (NOV 2021) (41 U.S.C. 3509).
+    []  (3) 52.203–15, Whistleblower Protections under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5). (Applies to contracts funded by the American Recovery and Reinvestment Act of 2009.)
+    [X]  (4) 52.203–17, Contractor Employee Whistleblower Rights (NOV 2023) (41 U.S.C. 4712); this clause does not apply to contracts of DoD, NASA, the Coast Guard, or applicable elements of the intelligence community—see FAR 3.900(a).
+    [X]  (5) 52.204–10, Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020) (Pub. L. 109–282) (31 U.S.C. 6101 note).
+    []  (6) [Reserved]
+    []  (7) 52.204–14, Service Contract Reporting Requirements (OCT 2016) (Pub. L. 111–117, section 743 of Div. C).
+    [X]  (8) 52.204–15, Service Contract Reporting Requirements for Indefinite-Delivery Contracts (OCT 2016) (Pub. L. 111–117, section 743 of Div. C).
+    [X]  (9) 52.204–27, Prohibition on a ByteDance Covered Application (JUN 2023) (Section 102 of Division R of Pub. L. 117–328).
+    []  (10) 52.204–28, Federal Acquisition Supply Chain Security Act Orders—Federal Supply Schedules, Governmentwide Acquisition Contracts, and Multi-Agency Contracts. (DEC 2023) (Pub. L. 115–390, title II).
+    [X]  (11)(i) 52.204–30, Federal Acquisition Supply Chain Security Act Orders— Prohibition. (DEC 2023) (Pub. L. 115–390, title II).
+    []  (ii) Alternate I (DEC 2023) of 52.204–30.
+    [X]  (12) 52.209–6, Protecting the Government’s Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment. (NOV 2021) (31 U.S.C. 6101 note).
+    [X]  (13) 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters (OCT 2018) (41 U.S.C. 2313).
+    []  (14) [Reserved]
+    []  (15) 52.219–3, Notice of HUBZone Set-Aside or Sole-Source Award (OCT 2022) (15 U.S.C. 657a).
+    []  (16) 52.219–4, Notice of Price Evaluation Preference for HUBZone Small Business Concerns (OCT 2022) (if the offeror elects to waive the preference, it shall so indicate in its offer) (15 U.S.C. 657a).
+    []  (17) [Reserved]
+    []  (18)(i) 52.219-6, Notice of Total Small Business Set-Aside (NOV 2020) (15 U.S.C. 644).
+    []  (ii) Alternate I (MAR 2020) of 52.219-6.
+    []  (19)(i) 52.219-7, Notice of Partial Small Business Set-Aside (NOV 2020) (15 U.S.C. 644).
+    []  (ii) Alternate I (MAR 2020) of 52.219-7.
+    [X]  (20) 52.219-8, Utilization of Small Business Concerns (FEB 2024) (15 U.S.C. 637(d)(2) and (3)).
+    []  (21)(i) 52.219–9, Small Business Subcontracting Plan (SEP 2023) (15 U.S.C. 637(d)(4)).
+    []  (ii) Alternate I (NOV 2016) of 52.219-9.
+    []  (iii) Alternate II (NOV 2016) of 52.219-9.
+    []  (iv) Alternate III (JUN 2020) of 52.219–9.
+    []  (v) Alternate IV (SEP 2023) of 52.219–9.
+    []  (22)(i) 52.219-13, Notice of Set-Aside of Orders (MAR 2020) (15 U.S.C. 644(r)).
+    []  (ii) Alternate I (MAR 2020) of 52.219-13.
+    []  (23) 52.219–14, Limitations on Subcontracting (OCT 2022) (15 U.S.C. 657s).
+    []  (24) 52.219-16, Liquidated Damages—Subcontracting Plan (SEP 2021) (15 U.S.C. 637(d)(4)(F)(i)).
+    [X]  (25) 52.219–27, Notice of Set-Aside for, or Sole-Source Award to, Service-Disabled Veteran-Owned Small Business (SDVOSB) Concerns Eligible Under the SDVOSB Program (FEB 2024) (15 U.S.C. 657f).
+    [X]  (26) (i) 52.219–28, Post-Award Small Business Program Representation (FEB 2024) (15 U.S.C. 632(a)(2)).
+    []  (ii) Alternate I (MAR 2020) of 52.219–28.
+    []  (27) 52.219–29, Notice of Set-Aside for, or Sole-Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns (OCT 2022) (15 U.S.C. 637(m)).
+    []  (28) 52.219–30, Notice of Set-Aside for, or Sole-Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program (OCT 2022) (15 U.S.C. 637(m)).
+    []  (29) 52.219-32, Orders Issued Directly Under Small Business Reserves (MAR 2020) (15 U.S.C. 644(r)).
+    []  (30) 52.219–33, Nonmanufacturer Rule (SEP 2021) (15 U.S.C. 657s).
+    [X]  (31) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
+    []  (32) 52.222–19, Child Labor—Cooperation with Authorities and Remedies (FEB 2024) (E.O. 13126).
+    [X]  (33) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+    [X]  (34)(i) 52.222–26, Equal Opportunity (SEP 2016) (E.O. 11246).
+    []  (ii) Alternate I (FEB 1999) of 52.222-26.
+    [X]  (35)(i) 52.222–35, Equal Opportunity for Veterans (JUN 2020) (38 U.S.C. 4212).
+    []  (ii) Alternate I (JUL 2014) of 52.222-35.
+    [X]  (36)(i) 52.222–36, Equal Opportunity for Workers with Disabilities (JUN 2020) (29 U.S.C. 793).
+    []  (ii) Alternate I (JUL 2014) of 52.222-36.
+    [X]  (37) 52.222–37, Employment Reports on Veterans (JUN 2020) (38 U.S.C. 4212).
+    [X]  (38) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496).
+    [X]  (39)(i) 52.222-50, Combating Trafficking in Persons (NOV 2021) (22 U.S.C. chapter 78 and E.O. 13627).
+    []  (ii) Alternate I (MAR 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
+    [X]  (40) 52.222-54, Employment Eligibility Verification (MAY 2022). (E. O. 12989). (Not applicable to the acquisition of commercially available off-the-shelf items or certain other types of commercial products or commercial services as prescribed in FAR 22.1803.)
+    []  (41)(i) 52.223-9, Estimate of Percentage of Recovered Material Content for EPA-Designated Items (MAY 2008) (42 U.S.C.6962(c)(3)(A)(ii)). (Not applicable to the acquisition of commercially available off-the-shelf items.)
+    []  (ii) Alternate I (MAY 2008) of 52.223-9 (42 U.S.C. 6962(i)(2)(C)). (Not applicable to the acquisition of commercially available off-the-shelf items.)
+    []  (42) 52.223-11, Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (MAY 2024) (42 U.S.C. 7671, et seq.).
+    []  (43) 52.223-12, Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (MAY 2024) (42 U.S.C. 7671, et seq.).
+    []  (44) 52.223-20, Aerosols. (MAY 2024) (42 U.S.C. 7671, et seq.).
+    []  (45) 52.223-21, Foams (MAY 2024). (42 U.S.C. 7671, et seq.).
+    [X]  (46) 52.223-23, Sustainable Products and Services (MAY 2024) (E.O. 14057, 7 U.S.C. 8102, 42 U.S.C. 6962, 42 U.S.C. 8259b, and 42 U.S.C. 7671I).
+    [X]  (47)(i) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
+    []  (ii) Alternate I (JAN 2017) of 52.224-3.
+    []  (48)(i) 52.225-1, Buy American—Supplies (OCT 2022) (41 U.S.C. chapter 83).
+    []  (ii) Alternate I (OCT 2022) of 52.225-1.
+    []  (49)(i) 52.225-3, Buy American—Free Trade Agreements—Israeli Trade Act (NOV 2023) (19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, 19 U.S.C. chapter 29 (sections 4501-4732), Public Law 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
+    []  (ii) Alternate I [Reserved].
+    []  (iii) Alternate II (DEC 2022) of 52.225-3.
+    []  (iv) Alternate III (FEB 2024) of 52.225-3.
+    []  (v) Alternate IV (OCT 2022) of 52.225-3.
+    []  (50) 52.225–5, Trade Agreements (NOV 2023) (19 U.S.C. 2501, et seq., 19 U.S.C. 3301 note
+    [X]  (51) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+    []  (52) 52.225–26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. Subtitle A, Part V, Subpart G Note).
+    []  (53) 52.226-4, Notice of Disaster or Emergency Area Set-Aside (NOV 2007) (42 U.S.C. 5150).
+    []  (54) 52.226-5, Restrictions on Subcontracting Outside Disaster or Emergency Area (NOV 2007) (42 U.S.C. 5150).
+    [X]  (55) 52.226-8, Encouraging Contractor Policies to Ban Text Messaging While Driving (MAY 2024) (E.O. 13513)
+    [X]  (56) 52.229–12, Tax on Certain Foreign Procurements (FEB 2021).
+    []  (57) 52.232-29, Terms for Financing of Purchases of Commercial Products and Commercial Services (NOV 2021) (41 U.S.C. 4505, 10 U.S.C. 3805).
+    []  (58) 52.232-30, Installment Payments for Commercial Products and Commercial Services (NOV 2021) (41 U.S.C. 4505, 10 U.S.C. 3805).
+    [X]  (59) 52.232-33, Payment by Electronic Funds Transfer—System for Award Management (OCT 2018) (31 U.S.C. 3332).
+    []  (60) 52.232-34, Payment by Electronic Funds Transfer—Other than System for Award Management (JUL 2013) (31 U.S.C. 3332).
+    [X]  (61) 52.232-36, Payment by Third Party (MAY 2014) (31 U.S.C. 3332).
+    [X]  (62) 52.239-1, Privacy or Security Safeguards (AUG 1996) (5 U.S.C. 552a).
+    []  (63) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(13)).
+    []  (64)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631).
+    []  (ii) Alternate I (APR 2003) of 52.247-64.
+    []  (iii) Alternate II (NOV 2021) of 52.247-64.
+  (c) The Contractor shall comply with the FAR clauses in this paragraph (c), applicable to commercial services, that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
+    [X]  (1) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67).
+    [X]  (2) 52.222-42, Statement of Equivalent Rates for Federal Hires (MAY 2014) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
+Employee Class
+Monetary Wage-Fringe Benefits
+
+WG06 Step 1
+
+
+
+
+
+
+
+
+ If you'll be using the occupational titles from the wage determinations for the classification of workers their WG/GS-equivalent rates can be found at this link:
+https://www.dol.gov/whd/regs/compliance/wage/SCADirV5/Vers5ContentsTable.pdf      
+The GS equivalent rates step-1 hourly rates can be found at this link:
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/ 
+   []  (3) 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards—Price Adjustment (Multiple Year and Option Contracts) (AUG 2018) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
+    [X]  (4) 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards—Price Adjustment (MAY 2014) (29 U.S.C 206 and 41 U.S.C. chapter 67).
+    []  (5) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment—Requirements (MAY 2014) (41 U.S.C. chapter 67).
+    []  (6) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Requirements (MAY 2014) (41 U.S.C. chapter 67).
+    [X]  (7) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
+    [X]  (8) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2022) (E.O. 13706).
+    []  (9) 52.226–6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792).
+  (d)  Comptroller General Examination of Record. The Contractor shall comply with the provisions of this paragraph (d) if this contract was awarded using other than sealed bid, is in excess of the simplified acquisition threshold, as defined in FAR 2.101, on the date of award of this contract, and does not contain the clause at 52.215-2, Audit and Records—Negotiation.
+    (1) The Comptroller General of the United States, or an authorized representative of the Comptroller General, shall have access to and right to examine any of the Contractor's directly pertinent records involving transactions related to this contract.
+    (2) The Contractor shall make available at its offices at all reasonable times the records, materials, and other evidence for examination, audit, or reproduction, until 3 years after final payment under this contract or for any shorter period specified in FAR Subpart 4.7, Contractor Records Retention, of the other clauses of this contract. If this contract is completely or partially terminated, the records relating to the work terminated shall be made available for 3 years after any resulting final termination settlement. Records relating to appeals under the disputes clause or to litigation or the settlement of claims arising under or relating to this contract shall be made available until such appeals, litigation, or claims are finally resolved.
+    (3) As used in this clause, records include books, documents, accounting procedures and practices, and other data, regardless of type and regardless of form. This does not require the Contractor to create or maintain any record that the Contractor does not maintain in the ordinary course of business or pursuant to a provision of law.
+  (e)(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), (c), and (d) of this clause, the Contractor is not required to flow down any FAR clause, other than those in this paragraph (e)(1) in a subcontract for commercial products or commercial services. Unless otherwise indicated below, the extent of the flow down shall be as required by the clause—
+      (i) 52.203–13, Contractor Code of Business Ethics and Conduct (NOV 2021) (41 U.S.C. 3509).
+      (ii) 52.203–17, Contractor Employee Whistleblower Rights (NOV 2023) (41 U.S.C. 4712).
+      (iii) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
+      (iv) 52.204–23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities (DEC 2023) (Section 1634 of Pub. L. 115–91).
+      (v) 52.204–25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115–232).
+      (vi) 52.204–27, Prohibition on a ByteDance Covered Application (JUN 2023) (Section 102 of Division R of Pub. L. 117–328).
+      (vii) (A) 52.204–30, Federal Acquisition Supply Chain Security Act Orders— Prohibition. (DEC 2023) (Pub. L. 115–390, title II).
+        (B) Alternate I (DEC 2023) of 52.204–30.
+      (viii) 52.219–8, Utilization of Small Business Concerns (FEB 2024) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219–8 in lower tier subcontracts that offer subcontracting opportunities.
+      (ix) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+      (x) 52.222–26, Equal Opportunity (SEP 2016) (E.O. 11246).
+      (xi) 52.222–35, Equal Opportunity for Veterans (JUN 2020) (38 U.S.C. 4212).
+      (xii) 52.222–36, Equal Opportunity for Workers with Disabilities (JUN 2020) (29 U.S.C. 793).
+      (xiii) 52.222–37, Employment Reports on Veterans (JUN 2020) (38 U.S.C. 4212).
+      (xiv) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR clause 52.222-40.
+      (xv) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67).
+      (xvi)(A) 52.222-50, Combating Trafficking in Persons (NOV 2021) (22 U.S.C. chapter 78 and E.O. 13627).
+        (B) Alternate I (MAR 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
+      (xvii) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment—Requirements (MAY 2014) (41 U.S.C. chapter 67).
+      (xviii) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services—Requirements (MAY 2014) (41 U.S.C. chapter 67).
+      (xix) 52.222-54, Employment Eligibility Verification (MAY 2022) (E. O. 12989).
+      (xx) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
+      (xxi) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2022) (E.O. 13706).
+      (xxii)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
+        (B) Alternate I (JAN 2017) of 52.224-3.
+      (xxiii) 52.225–26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. Subtitle A, Part V, Subpart G Note).
+      (xxiv) 52.226–6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
+      (xxv) 52.232–40, Providing Accelerated Payments to Small Business Subcontractors (MAR 2023) (31 U.S.C. 3903 and 10 U.S.C. 3801). Flow down required in accordance with paragraph (c) of 52.232–40.
+      (xxvi) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
+    (2) While not required, the Contractor may include in its subcontracts for commercial products and commercial services a minimal number of additional clauses necessary to satisfy its contractual obligations.
+(End of Clause)
+
+SECTION D - CONTRACT DOCUMENTS, EXHIBITS, OR ATTACHMENTS
+	
+See attached document: Price-Cost Schedule - Non Emergent Patient Transportation.
+See attached document: QUALITY ASSURANCE SURVEILLANCE PLAN - Detroit Non-Emergent Patient Transportation Service.
+See attached document: Surveillance Checklist - Non Emergent Patient Transportation - Detroit VAMC.
+See attached document: Wage Determination 2015-4839 REV 24 Wayne County.
+See attached document: Wage Determination 2015-4859 REV 23 Monroe County.
+See attached document: Wage Determination 2015-4867 REV 27 Lapeer_Macomb_Oakland_ST Clair Counties.
+See attached document: Wage Determination 2015-4869 REV 28 Livingston County.
+See attached document: Wage Determination 2015-4865 REV 24 Saginaw County.
+See attached document: Wage Determination 2015-4833 REV 25 Washtenaw County.
+
+SECTION E - SOLICITATION PROVISIONS
+
+ADDENDUM to FAR 52.212-1 INSTRUCTIONS TO OFFERORS—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES
+  Provisions that are incorporated by reference (by Citation Number, Title, and Date), have the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available.
+  The following provisions are incorporated into 52.212-1 as an addendum to this solicitation:
+E.1 INSTRUCTIONS FOR QUOTE SUBMISSION
+1. Standard Form 1449 – Fill in and sign Block 30a, and also provide acknowledgement of any solicitation amendments. 
+2. Pricing – Proposed pricing shall be submitted on the attachment Price-Cost Schedule – Non Emergent Patient Transportation. Each quotation must include an offer to provide all basic services/supplies required.  Contractor must fill out the attachment, highlighted cells only.
+All requests for information/questions must be submitted via email to morgan.stein@va.gov and received by the contracting officer, no later than the date and time specified in Block 20 of the SF1449.
+All quotes must be submitted in electronic format to the Contracting Specialist, by the date and time specified in Block 8 of the SF 1449, via email to Christopher.gundy@va.gov. All quotes must be viewable using Microsoft Office products or Adobe Reader. Hard copy quotes or quotes submitted by fax will not be accepted.
+Email subject line for quote submission: “Quote submission 36C25024R0170 Non Emergent Patient Transportation”.  Telephonic (verbal) questions will not be addressed.
+All responses to questions, which may affect offers, will be incorporated into a written amendment to the Request for Quote.
+Offerors shall submit documentation in their quote evidencing that they can meet or exceed the acceptability standards provided below. 
+The following must be completed in this solicitation to be considered for award:
+VAAR 852.219-75 (paragraph C.9).
+FAR 52.204-24 (paragraph E.2).
+FAR 52.209-7 (paragraph E.4).
+A Best Value award will be made as described in FAR 13.106-2 Comparative Analysis, based upon the following evaluation factors:
+Technical Capability 
+	• Offeror provided documentation evidencing that it can meet the requirements of non-emergent patient transportation located in the Performance Work Statement (PWS).
+	• Offeror shall provide evidence of having required training and capability to provide all transportation services located int the SOW.
+Past Experience 
+	• Contractor shall provide proof of past experience of providing services related to transportation service. 
+Past Performance 
+	• This factor shall be used to evaluate the offeror's most recent and relevant experience accomplishing the type of work required by this solicitation.  This factor shall also be used to evaluate how well an offeror has performed on previous projects of similar scope, magnitude and complexity, and is an indicator of the likelihood of completion of new projects in terms of time, cost, and quality of work.  Past Performance shall be evaluated through the use of the Contractor Performance Assessment Reporting System (CPARS)  An offeror that has no available relevant past performance history shall not be evaluated favorably or unfavorably. 
+Price 
+	• The Contracting Officer will evaluate price for reasonableness. The Government will evaluate quotes for award purposes by adding the total price for all years for the basic requirement.
+E.2  52.204-24 REPRESENTATION REGARDING CERTAIN TELECOMMUNICATIONS AND VIDEO SURVEILLANCE SERVICES OR EQUIPMENT (NOV 2021)
+  The Offeror shall not complete the representation at paragraph (d)(1) of this provision if the Offeror has represented that it ‘‘does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument’’ in paragraph (c)(1) in the provision at 52.204–26, Covered Telecommunications Equipment or Services—Representation, or in paragraph (v)(2)(i) of the provision at 52.212–3, Offeror Representations and Certifications–Commercial Products and Commercial Services. The Offeror shall not complete the representation in paragraph (d)(2) of this provision if the Offeror has represented that it ‘‘does not use covered telecommunications equipment or services, or any equipment, system, or service that uses covered telecommunications equipment or services’’ in paragraph (c)(2) of the provision at 52.204–26, or in paragraph (v)(2)(ii) of the provision at 52.212–3.
+  (a) Definitions. As used in this provision—
+  Backhaul, covered telecommunications equipment or services, critical technology, interconnection arrangements, reasonable inquiry, roaming, and substantial or essential component have the meanings provided in the clause 52.204–25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
+  (b) Prohibition. (1) Section 889(a)(1)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115–232) prohibits the head of an executive agency on or after August 13, 2019, from procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. Nothing in the prohibition shall be construed to—
+      (i) Prohibit the head of an executive agency from procuring with an entity to provide a service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+      (ii) Cover telecommunications equipment that cannot route or redirect user data traffic or cannot permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+    (2) Section 889(a)(1)(B) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115–232) prohibits the head of an executive agency on or after August 13, 2020, from entering into a contract or extending or renewing a contract with an entity that uses any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. This prohibition applies to the use of covered telecommunications equipment or services, regardless of whether that use is in performance of work under a Federal contract. Nothing in the prohibition shall be construed to—
+      (i) Prohibit the head of an executive agency from procuring with an entity to provide a service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+      (ii) Cover telecommunications equipment that cannot route or redirect user data traffic or cannot permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+  (c) Procedures. The Offeror shall review the list of excluded parties in the System for Award Management (SAM) (https://www.sam.gov) for entities excluded from receiving federal awards for “covered telecommunications equipment or services.”
+  (d) Representations. The Offeror represents that—
+    (1) It [ ] will, [ ] will not provide covered telecommunications equipment or services to the Government in the performance of any contract, subcontract or other contractual instrument resulting from this solicitation. The Offeror shall provide the additional disclosure information required at paragraph (e)(1) of this section if the Offeror responds “will’’ in paragraph (d)(1) of this section; and
+    (2) After conducting a reasonable inquiry, for purposes of this representation, the Offeror represents that—
+  It [ ] does, [ ] does not use covered telecommunications equipment or services, or use any equipment, system, or service that uses covered telecommunications equipment or services. The Offeror shall provide the additional disclosure information required at paragraph (e)(2) of this section if the Offeror responds “does’’ in paragraph (d)(2) of this section.
+  (e) Disclosures. (1) Disclosure for the representation in paragraph (d)(1) of this provision. If the Offeror has responded “will’’ in the representation in paragraph (d)(1) of this provision, the Offeror shall provide the following information as part of the offer:
+      (i) For covered equipment—
+        (A) The entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the original equipment manufacturer (OEM) or a distributor, if known);
+        (B) A description of all covered telecommunications equipment offered (include brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); and
+        (C) Explanation of the proposed use of covered telecommunications equipment and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(1) of this provision.
+      (ii) For covered services—
+        (A) If the service is related to item maintenance: A description of all covered telecommunications services offered (include on the item being maintained: Brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); or
+        (B) If not associated with maintenance, the Product Service Code (PSC) of the service being provided; and explanation of the proposed use of covered telecommunications services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(1) of this provision.
+    (2) Disclosure for the representation in paragraph (d)(2) of this provision. If the Offeror has responded “does’’ in the representation in paragraph (d)(2) of this provision, the Offeror shall provide the following information as part of the offer:
+      (i) For covered equipment—
+        (A) The entity that produced the covered telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known);
+        (B) A description of all covered telecommunications equipment offered (include brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); and
+        (C) Explanation of the proposed use of covered telecommunications equipment and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(2) of this provision.
+      (ii) For covered services—
+        (A) If the service is related to item maintenance: A description of all covered telecommunications services offered (include on the item being maintained: Brand; model number, such as OEM number, manufacturer part number, or wholesaler number; and item description, as applicable); or
+        (B) If not associated with maintenance, the PSC of the service being provided; and explanation of the proposed use of covered telecommunications services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(2) of this provision.
+(End of Provision)
+E.3  52.204-29  FEDERAL ACQUISITION SUPPLY CHAIN SECURITY ACT ORDERS—REPRESENTATION AND DISCLOSURES (DEC 2023)
+  (a) Definitions. As used in this provision, Covered article, FASCSA order, Intelligence community, National security system, Reasonable inquiry, Sensitive compartmented information, Sensitive compartmented information system, and Source have the meaning provided in the clause 52.204–30, Federal Acquisition Supply Chain Security Act Orders— Prohibition.
+  (b) Prohibition. Contractors are prohibited from providing or using as part of the performance of the contract any covered article, or any products or services produced or provided by a source, if the prohibition is set out in an applicable Federal Acquisition Supply Chain Security Act (FASCSA) order, as described in paragraph (b)(1) of FAR 52.204–30, Federal Acquisition Supply Chain Security Act Orders—Prohibition.
+  (c) Procedures. (1) The Offeror shall search for the phrase ‘‘FASCSA order’’ in the System for Award Management (SAM)(https://www.sam.gov) for any covered article, or any products or services produced or provided by a source, if there is an applicable FASCSA order described in paragraph (b)(1) of FAR 52.204–30, Federal Acquisition Supply Chain Security Act Orders—Prohibition.
+    (2) The Offeror shall review the solicitation for any FASCSA orders that are not in SAM, but are effective and do apply to the solicitation and resultant contract (see FAR 4.2303(c)(2)).
+    (3) FASCSA orders issued after the date of solicitation do not apply unless added by an amendment to the solicitation.
+  (d) Representation. By submission of this offer, the offeror represents that it has conducted a reasonable inquiry, and that the offeror does not propose to provide or use in response to this solicitation any covered article, or any products or services produced or provided by a source, if the covered article or the source is prohibited by an applicable FASCSA order in effect on the date the solicitation was issued, except as waived by the solicitation, or as disclosed in paragraph (e).
+  (e) Disclosures. The purpose for this disclosure is so the Government may decide whether to issue a waiver. For any covered article, or any products or services produced or provided by a source, if the covered article or the source is subject to an applicable FASCSA order, and the Offeror is unable to represent compliance, then the Offeror shall provide the following information as part of the offer:
+    (1) Name of the product or service provided to the Government;
+    (2) Name of the covered article or source subject to a FASCSA order;
+    (3) If applicable, name of the vendor, including the Commercial and Government Entity code and unique entity identifier (if known), that supplied the covered article or the product or service to the Offeror;
+    (4) Brand;
+    (5) Model number (original equipment manufacturer number, manufacturer part number, or wholesaler number);
+    (6) Item description;
+    (7) Reason why the applicable covered article or the product or service is being provided or used;
+  (f) Executive agency review of disclosures. The contracting officer will review disclosures provided in paragraph (e) to determine if any waiver may be sought. A contracting officer may choose not to pursue a waiver for covered articles or sources otherwise subject to a FASCSA order and may instead make an award to an offeror that does not require a waiver.
+(End of Provision)
+E.4 52.209-7 INFORMATION REGARDING RESPONSIBILITY MATTERS (OCT 2018)
+  (a) Definitions. As used in this provision—
+  "Administrative proceeding" means a non-judicial process that is adjudicatory in nature in order to make a determination of fault or liability (e.g., Securities and Exchange Commission Administrative Proceedings, Civilian Board of Contract Appeals Proceedings, and Armed Services Board of Contract Appeals Proceedings). This includes administrative proceedings at the Federal and State level but only in connection with performance of a Federal contract or grant. It does not include agency actions such as contract audits, site visits, corrective plans, or inspection of deliverables.
+  "Federal contracts and grants with total value greater than $10,000,000" means—
+    (1) The total value of all current, active contracts and grants, including all priced options; and
+    (2) The total value of all current, active orders including all priced options under indefinite-delivery, indefinite-quantity, 8(a), or requirements contracts (including task and delivery and multiple-award Schedules).
+  "Principal" means an officer, director, owner, partner, or a person having primary management or supervisory responsibilities within a business entity (e.g., general manager; plant manager; head of a division or business segment; and similar positions).
+  (b) The offeror [ ] has [ ] does not have current active Federal contracts and grants with total value greater than $10,000,000.
+  (c) If the offeror checked "has" in paragraph (b) of this provision, the offeror represents, by submission of this offer, that the information it has entered in the Federal Awardee Performance and Integrity Information System (FAPIIS) is current, accurate, and complete as of the date of submission of this offer with regard to the following information:
+    (1) Whether the offeror, and/or any of its principals, has or has not, within the last five years, in connection with the award to or performance by the offeror of a Federal contract or grant, been the subject of a proceeding, at the Federal or State level that resulted in any of the following dispositions:
+      (i) In a criminal proceeding, a conviction.
+      (ii) In a civil proceeding, a finding of fault and liability that results in the payment of a monetary fine, penalty, reimbursement, restitution, or damages of $5,000 or more.
+      (iii) In an administrative proceeding, a finding of fault and liability that results in—
+        (A) The payment of a monetary fine or penalty of $5,000 or more; or
+        (B) The payment of a reimbursement, restitution, or damages in excess of $100,000.
+      (iv) In a criminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the Contractor if the proceeding could have led to any of the outcomes specified in paragraphs (c)(1)(i), (c)(1)(ii), or (c)(1)(iii) of this provision.
+    (2) If the offeror has been involved in the last five years in any of the occurrences listed in (c)(1) of this provision, whether the offeror has provided the requested information with regard to each occurrence.
+  (d) The offeror shall post the information in paragraphs (c)(1)(i) through (c)(1)(iv) of this provision in FAPIIS as required through maintaining an active registration in the System for Award Management, which can be accessed via https://www.sam.gov (see 52.204-7).
+(End of Provision)
+E.5 52.216-1 TYPE OF CONTRACT (APR 1984)
+  The Government contemplates award of a Firm-Fixed-Price, Single Award, Indefinite Delivery – Indefinite Quantity contract resulting from this solicitation.
+(End of Provision)
+E.6  52.233-2  SERVICE OF PROTEST  (SEP 2006)
+  Protests, as defined in section 33.101 of the Federal Acquisition Regulation, that are filed directly with an agency, and copies of any protests that are filed with the Government Accountability Office (GAO), shall be served on the Contracting Officer (addressed as follows) by obtaining written and dated acknowledgment of receipt from:
+     Christopher Gundy
+     Contracting Officer
+     
+     Hand-Carried Address:
+     Christopher Gundy
+     Department of Veterans Affairs
+     Network Contracting Office 10 AAHCS
+     Lobby M, Suite 2200
+     Ann Arbor MI  48105
+
+     Mailing Address:
+     Department of Veterans Affairs
+     VA Ann Arbor Healthcare System
+     Network Contracting Office 10
+     Lobby M, Suite 2200
+     Ann Arbor MI  48105
+
+  (b) The copy of any protest shall be received in the office designated above within one day of filing a protest with the GAO.
+(End of Provision)
+E.7  VAAR 852.233-70  PROTEST CONTENT/ALTERNATIVE DISPUTE RESOLUTION (OCT 2018)
+  (a) Any protest filed by an interested party shall—
+    (1) Include the name, address, fax number, email and telephone number of the protester;
+    (2) Identify the solicitation and/or contract number;
+    (3) Include an original signed by the protester or the protester’s representative and at least one copy;
+    (4) Set forth a detailed statement of the legal and factual grounds of the protest, including a description of resulting prejudice to the protester, and provide copies of relevant documents;
+    (5) Specifically request a ruling of the individual upon whom the protest is served;
+    (6) State the form of relief requested; and
+    (7) Provide all information establishing the timeliness of the protest.
+  (b) Failure to comply with the above may result in dismissal of the protest without further consideration.
+  (c) Bidders/offerors and Contracting Officers are encouraged to use alternative dispute resolution (ADR) procedures to resolve protests at any stage in the protest process. If ADR is used, the Department of Veterans Affairs will not furnish any documentation in an ADR proceeding beyond what is allowed by the Federal Acquisition Regulation.
+(End of Provision)
+E.8  VAAR 852.233-71  ALTERNATE PROTEST PROCEDURE (OCT 2018)
+  (a) As an alternative to filing a protest with the Contracting Officer, an interested party may file a protest by mail or electronically with: Executive Director, Office of Acquisition and Logistics, Risk Management and Compliance Service (003A2C), Department of Veterans Affairs, 810 Vermont Avenue NW, Washington, DC 20420 or Email: EDProtests@va.gov.
+  (b) The protest will not be considered if the interested party has a protest on the same or similar issue(s) pending with the Contracting Officer.
+(End of Provision)
+  PLEASE NOTE: The correct mailing information for filing alternate protests is as follows:
+
+	Deputy Assistant Secretary for Acquisition and Logistics,
+	Risk Management Team, Department of Veterans Affairs
+	810 Vermont Avenue, N.W.
+	Washington, DC 20420
+  Or for solicitations issued by the Office of Construction and Facilities Management:
+
+	Director, Office of Construction and Facilities Management
+	811 Vermont Avenue, N.W.
+	Washington, DC 20420
+
+E.9  VAAR 852.239-75  INFORMATION AND COMMUNICATION TECHNOLOGY ACCESSIBILITY NOTICE (FEB 2023)
+  (a) Any offeror responding to this solicitation must comply with established VA Information and Communication Technology (ICT) (formerly Electronic and Information (EIT)) accessibility standards. Information about Section 508 is available at http://www.section508.va.gov/.
+  (b) The Section 508 accessibility standards applicable to this solicitation are stated in the clause at 852.239–75, Information and Communication Technology Accessibility. In order to facilitate the Government’s determination whether proposed ICT supplies meet applicable Section 508 accessibility standards, offerors must submit appropriate VA Section 508 Checklists, in accordance with the checklist completion instructions. The purpose of the checklists is to assist VA acquisition and program officials in determining whether proposed ICT supplies, or information, documentation and services conform to applicable Section 508 accessibility standards. The checklists allow offerors or developers to self-evaluate their supplies and document—in detail—whether they conform to a specific Section 508 accessibility standard, and any underway remediation efforts addressing conformance issues.
+  (c) Respondents to this solicitation must identify any exception to Section 508 requirements. If an offeror claims its supplies or services meet applicable Section 508 accessibility standards, and it is later determined by the Government, i.e., after award of a contract or order, that supplies or services delivered do not conform to the described accessibility standards, remediation of the supplies or services to the level of conformance specified in the contract will be the responsibility of the Contractor at its expense.
+(End of Provision)
+E.10  52.252-1  SOLICITATION PROVISIONS INCORPORATED BY REFERENCE  (FEB 1998)
+  This solicitation incorporates one or more solicitation provisions by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available. The offeror is cautioned that the listed provisions may include blocks that must be completed by the offeror and submitted with its quotation or offer. In lieu of submitting the full text of those provisions, the offeror may identify the provision by paragraph identifier and provide the appropriate information with its quotation or offer. Also, the full text of a solicitation provision may be accessed electronically at this/these address(es):
+  https://www.acquisition.gov/browse/index/far
+  https://www.va.gov/oal/library/vaar/
+  
+(End of Provision)
+FAR Number
+Title
+Date
+52.204-7
+SYSTEM FOR AWARD MANAGEMENT
+OCT 2018
+52.204-16
+COMMERCIAL AND GOVERNMENT ENTITY CODE REPORTING
+AUG 2020
+52.212-1
+INSTRUCTIONS TO OFFERORS—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES
+SEP 2023
+52.229-11
+TAX ON CERTAIN FOREIGN PROCUREMENTS—NOTICE AND REPRESENTATION
+JUN 2020
+	(End of Addendum to 52.212-1)
+
+E.11  52.212-2  EVALUATION—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (NOV 2021)
+  (a) The Government will award a contract resulting from this solicitation to the responsible offeror whose offer conforming to the solicitation will be most advantageous to the Government, price and other factors considered. The following factors shall be used to evaluate offers:
+   Technical Capability 
+   Past Experience 
+   Past Performance 
+   Price 
+    Award Basis: The Government intends to award a fixed priced contract to the responsible offeror whose offer, conforming to the requirements in this request for quote, will be most advantageous to the Government, price and other factors considered.  This will be a single award IDIQ.
+  (b) Options. The Government will evaluate offers for award purposes by adding the total price for all options to the total price for the basic requirement. The Government may determine that an offer is unacceptable if the option prices are significantly unbalanced. Evaluation of options shall not obligate the Government to exercise the option(s).
+  (c) A written notice of award or acceptance of an offer, mailed or otherwise furnished to the successful offeror within the time for acceptance specified in the offer, shall result in a binding contract without further action by either party. Before the offer's specified expiration time, the Government may accept an offer (or part of an offer), whether or not there are negotiations after its receipt, unless a written notice of withdrawal is received before award.
+(End of Provision)
+E.12  52.212-3  OFFEROR REPRESENTATIONS AND CERTIFICATIONS—COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (MAY 2024)
+  The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through https://www.sam.gov. If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v) of this provision.
+  (a) Definitions.  As used in this provision—
+  Covered telecommunications equipment or services has the meaning provided in the clause 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
+  Economically disadvantaged women-owned small business (EDWOSB) concern means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR 127, and the concern is identified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300. It automatically qualifies as a women-owned small business eligible under the WOSB Program.
+  Forced or indentured child labor means all work or service—
+    (1) Exacted from any person under the age of 18 under the menace of any penalty for its nonperformance and for which the worker does not offer himself voluntarily; or
+    (2) Performed by any person under the age of 18 pursuant to a contract the enforcement of which can be accomplished by process or penalties.
+  Highest-level owner means the entity that owns or controls an immediate owner of the offeror, or that owns or controls one or more entities that control an immediate owner of the offeror. No entity owns or exercises control of the highest level owner.
+  Immediate owner means an entity, other than the offeror, that has direct control of the offeror. Indicators of control include, but are not limited to, one or more of the following: Ownership or interlocking management, identity of interests among family members, shared facilities and equipment, and the common use of employees.
+  Inverted domestic corporation means a foreign incorporated entity that meets the definition of an inverted domestic corporation under 6 U.S.C. 395(b), applied in accordance with the rules and definitions of 6 U.S.C. 395(c).
+  Manufactured end product means any end product in product and service codes (PSCs) 1000-9999, except—
+    (1) PSC 5510, Lumber and Related Basic Wood Materials;
+    (2) Product or Service Group (PSG) 87, Agricultural Supplies;
+    (3) PSG 88, Live Animals;
+    (4) PSG 89, Subsistence;
+    (5) PSC 9410, Crude Grades of Plant Materials;
+    (6) PSC 9430, Miscellaneous Crude Animal Products, Inedible;
+    (7) PSC 9440, Miscellaneous Crude Agricultural and Forestry Products;
+    (8) PSC 9610, Ores;
+    (9) PSC 9620, Minerals, Natural and Synthetic; and
+    (10) PSC 9630, Additive Metal Materials.
+  Place of manufacture means the place where an end product is assembled out of components, or otherwise made or processed from raw materials into the finished product that is to be provided to the Government. If a product is disassembled and reassembled, the place of reassembly is not the place of manufacture.
+  Predecessor means an entity that is replaced by a successor and includes any predecessors of the predecessor.
+  Reasonable inquiry has the meaning provided in the clause 52.204–25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
+  Restricted business operations means business operations in Sudan that include power production activities, mineral extraction activities, oil-related activities, or the production of military equipment, as those terms are defined in the Sudan Accountability and Divestment Act of 2007 (Pub. L. 110-174). Restricted business operations do not include business operations that the person (as that term is defined in Section 2 of the Sudan Accountability and Divestment Act of 2007) conducting the business can demonstrate—
+    (1) Are conducted under contract directly and exclusively with the regional government of southern Sudan;
+    (2) Are conducted pursuant to specific authorization from the Office of Foreign Assets Control in the Department of the Treasury, or are expressly exempted under Federal law from the requirement to be conducted under such authorization;
+    (3) Consist of providing goods or services to marginalized populations of Sudan;
+    (4) Consist of providing goods or services to an internationally recognized peacekeeping force or humanitarian organization;
+    (5) Consist of providing goods or services that are used only to promote health or education; or
+    (6) Have been voluntarily suspended.
+  Sensitive technology—
+    (1) Means hardware, software, telecommunications equipment, or any other technology that is to be used specifically—
+      (i) To restrict the free flow of unbiased information in Iran; or
+      (ii) To disrupt, monitor, or otherwise restrict speech of the people of Iran; and
+    (2) Does not include information or informational materials the export of which the President does not have the authority to regulate or prohibit pursuant to section 203(b)(3) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)(3)).
+  Service-disabled veteran-owned small business (SDVOSB) concern means a small business concern—
+    (1)(i) Not less than 51 percent of which is owned and controlled by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+      (ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran; or
+    (2) A small business concern eligible under the SDVOSB Program in accordance with 13 CFR part 128 (see subpart 19.14).
+    (3) Service-disabled veteran, as used in this definition, means a veteran as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16), and who is registered in the Beneficiary Identification and Records Locator Subsystem, or successor system that is maintained by the Department of Veterans Affairs’ Veterans Benefits Administration, as a service-disabled veteran.
+  Service-disabled veteran-owned small business (SDVOSB) concern eligible under the SDVOSB Program means an SDVOSB concern that—
+    (1) Effective January 1, 2024, is designated in the System for Award Management (SAM) as certified by the Small Business Administration (SBA) in accordance with 13 CFR 128.300; or
+    (2) Has represented that it is an SDVOSB concern in SAM and submitted a complete application for certification to SBA on or before December 31, 2023.
+  Service-disabled veteran-owned small business (SDVOSB) Program means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to SDVOSB concerns eligible under the SDVOSB Program.
+  Small business concern—
+    (1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and size standards in this solicitation.
+    (2) Affiliates, as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
+  Small disadvantaged business concern, consistent with 13 CFR 124.1001, means a small business concern under the size standard applicable to the acquisition, that—
+    (1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by—
+      (i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States; and
+      (ii) Each individual claiming economic disadvantage has a net worth not exceeding the threshold at 13 CFR 124.104(c)(2) after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
+    (2) The management and daily business operations of which are controlled (as defined at 13 CFR 124.106) by individuals, who meet the criteria in paragraphs (1)(i) and (ii) of this definition.
+  Subsidiary means an entity in which more than 50 percent of the entity is owned—
+    (1) Directly by a parent corporation; or
+    (2) Through another subsidiary of a parent corporation.
+  Successor means an entity that has replaced a predecessor by acquiring the assets and carrying out the affairs of the predecessor under a new name (often through acquisition or merger). The term “successor” does not include new offices/divisions of the same company or a company that only changes its name. The extent of the responsibility of the successor for the liabilities of the predecessor may vary, depending on State law and specific circumstances.
+  Veteran-owned small business concern means a small business concern—
+    (1) Not less than 51 percent of which is owned and controlled by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
+    (2) The management and daily business operations of which are controlled by one or more veterans.
+  Women-owned business concern means a concern which is at least 51 percent owned by one or more women; or in the case of any publicly owned business, at least 51 percent of its stock is owned by one or more women; and whose management and daily business operations are controlled by one or more women.
+  Women-owned small business concern means a small business concern—
+    (1) That is at least 51 percent owned by one or more women; or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
+    (2) Whose management and daily business operations are controlled by one or more women.
+  Women-owned small business (WOSB) concern eligible under the WOSB Program (in accordance with 13 CFR part 127), means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300.
+  (b)(1) Annual Representations and Certifications. Any changes provided by the Offeror in paragraph (b)(2) of this provision do not automatically change the representations and certifications in SAM.
+    (2) The offeror has completed the annual representations and certifications electronically in SAM accessed through http://www.sam.gov. After reviewing SAM information, the Offeror verifies by submission of this offer that the representations and certifications currently posted electronically at FAR 52.212–3, Offeror Representations and Certifications—Commercial Products and Commercial Services, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard(s) applicable to the NAICS code(s) referenced for this solicitation), at the time this offer is submitted and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs .
+  (c) Offerors must complete the following representations when the resulting contract is for supplies to be delivered or services to be performed in the United States or its outlying areas, or when the contracting officer has applied part 19 in accordance with 19.000(b)(1)(ii). Check all that apply.
+    (1) Small business concern. The offeror represents as part of its offer that—
+      (i) It [  ] is, [  ] is not a small business concern; or
+      (ii) It [  ] is, [  ] is not a small business joint venture that complies with the requirements of 13 CFR 121.103(h) and 13 CFR 125.8(a) and (b). [The offeror shall enter the name and unique entity identifier of each party to the joint venture: __________________.]
+    (2) Veteran-owned small business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.] The offeror represents as part of its offer that it [  ] is, [  ] is not a veteran-owned small business concern.
+    (3) SDVOSB concern. [Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(2) of this provision.] The offeror represents that it [ ] is, [ ] is not an SDVOSB concern.
+    (4) SDVOSB concern joint venture eligible under the SDVOSB Program. The offeror represents that it [ ] is, [ ] is not an SDVOSB joint venture eligible under the SDVOSB Program that complies with the requirements of 13 CFR 128.402. [Complete only if the offeror represented itself as an SDVOSB concern in paragraph (c)(3) of this provision.] [The offeror shall enter the name and unique entity identifier of each party to the joint venture:__.]
+    (5) Small disadvantaged business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.] The offeror represents that it [  ] is, [  ] is not a small disadvantaged business concern as defined in 13 CFR 124.1001.
+    (6) Women-owned small business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.] The offeror represents that it [  ] is, [  ] is not a women-owned small business concern.
+    (7) WOSB join venture eligible under the WOSB Program. [Complete only if the offeror represented itself as a women-owned small business concern in paragraph (c)(5) of this provision.] The offeror represents that it [ ] is, [ ] is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [The offeror shall enter the name and unique entity identifier of each party to the joint venture: __________________.]
+    (8) Economically disadvantaged women-owned small business (EDWOSB) joint venture. The offeror represents that it [ ] is, [ ] is not a joint venture that complies with the requirements of 13 CFR part 127.506(a) through (c). [The offeror shall enter the name and unique entity identifier of each party to the joint venture: __________________.]
+Note to Paragraphs (c)(9) and (10): Complete paragraphs (c)(9) and (10) only if this solicitation is expected to exceed the simplified acquisition threshold.
+    (9) Women-owned business concern (other than small business concern). [Complete only if the offeror is a women-owned business concern and did not represent itself as a small business concern in paragraph (c)(1) of this provision.]  The offeror represents that it [  ] is a women-owned business concern.
+    (10) Tie bid priority for labor surplus area concerns.  If this is an invitation for bid, small business offerors may identify the labor surplus areas in which costs to be incurred on account of manufacturing or production (by offeror or first-tier subcontractors) amount to more than 50 percent of the contract price:
+    ___________________________________________
+    (11) HUBZone small business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.] The offeror represents, as part of its offer, that—
+      (i) It [ ] is, [ ] is not a HUBZone small business concern listed, on the date of this representation, as having been certified by SBA as a HUBZone small business concern in the Dynamic Small Business Search and SAM, and will attempt to maintain an employment rate of HUBZone residents of 35 percent of its employees during performance of a HUBZone contract (see 13 CFR 126.200(e)(1)); and
+      (ii) It [ ] is, [ ] is not a HUBZone joint venture that complies with the requirements of 13 CFR Part 126.616(a) through (c). [The offeror shall enter the name and unique entity identifier of each party to the joint venture: __________________.] Each HUBZone small business concern participating in the HUBZone joint venture shall provide representation of its HUBZone status.
+  (d)  Representations required to implement provisions of Executive Order 11246—
+    (1) Previous contracts and compliance.  The offeror represents that—
+      (i)  It [  ] has, [  ] has not participated in a previous contract or subcontract subject to the Equal Opportunity clause of this solicitation; and
+      (ii)  It [  ] has, [  ] has not filed all required compliance reports.
+    (2) Affirmative Action Compliance.  The offeror represents that—
+      (i) It [  ] has developed and has on file, [  ] has not developed and does not have on file, at each establishment, affirmative action programs required by rules and regulations of the Secretary of Labor (41 CFR parts 60-1 and 60-2), or
+      (ii) It [  ] has not previously had contracts subject to the written affirmative action programs requirement of the rules and regulations of the Secretary of Labor.
+  (e) Certification Regarding Payments to Influence Federal Transactions (31 U.S.C. 1352). (Applies only if the contract is expected to exceed $150,000.) By submission of its offer, the offeror certifies to the best of its knowledge and belief that no Federal appropriated funds have been paid or will be paid to any person for influencing or attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress or an employee of a Member of Congress on his or her behalf in connection with the award of any resultant contract. If any registrants under the Lobbying Disclosure Act of 1995 have made a lobbying contact on behalf of the offeror with respect to this contract, the offeror shall complete and submit, with its offer, OMB Standard Form LLL, Disclosure of Lobbying Activities, to provide the name of the registrants. The offeror need not report regularly employed officers or employees of the offeror to whom payments of reasonable compensation were made.
+  (f) Buy American Certificate.  (Applies only if the clause at Federal Acquisition Regulation (FAR) 52.225-1, Buy American—Supplies, is included in this solicitation.)
+    (1)(i) The Offeror certifies that each end product, except those listed in paragraph (f)(2) of this provision, is a domestic end product and that each domestic end product listed in paragraph (f)(3) of this provision contains a critical component.
+      (ii) The Offeror shall list as foreign end products those end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except for those that are COTS items. If the percentage of the domestic content is unknown, select ‘‘no’’.
+      (iii) The Offeror shall separately list the line item numbers of domestic end products that contain a critical component (see FAR 25.105).
+      (iv) The terms ‘‘commercially available off-the-shelf (COTS) item,’’ ‘‘critical component,’’ ‘‘domestic end product,’’ ‘‘end product,’’ ‘‘foreign end product,’’ and ‘‘United States’’ are defined in the clause of this solicitation entitled ‘‘Buy American—Supplies.’’
+    (2) Foreign End Products:
+Line item No.
+Country of origin
+Exceeds 55% domestic content (yes/no)
+
+
+
+
+
+
+
+
+
+[List as necessary]
+    (3) Domestic end products containing a critical component: Line Item No. ___________
+[List as necessary]
+    (4) The Government will evaluate offers in accordance with the policies and procedures of FAR part 25.
+  (g)(1) Buy American—Free Trade Agreements—Israeli Trade Act Certificate. (Applies only if the clause at FAR 52.225-3, Buy American—Free Trade Agreements—Israeli Trade Act, is included in this solicitation.)
+      (i)(A) The Offeror certifies that each end product, except those listed in paragraph (g)(1)(ii) or (iii) of this provision, is a domestic end product and that each domestic end product listed in paragraph (g)(1)(iv) of this provision contains a critical component.
+       (B) The terms ‘‘Bahraini, Moroccan, Omani, Panamanian, or Peruvian end product,’’ ‘‘commercially available off-the-shelf (COTS) item,’’ ‘‘critical component,’’ ‘‘domestic end product,’’ ‘‘end product,’’ ‘‘foreign end product,’’ ‘‘Free Trade Agreement country,’’ ‘‘Free Trade Agreement country end product,’’ ‘‘Israeli end product,’’ and ‘‘United States’’ are defined in the clause of this solicitation entitled ‘‘Buy American—Free Trade Agreements—Israeli Trade Act.’’
+       (ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahraini, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled ‘‘Buy American—Free Trade Agreements—Israeli Trade Act.’’
+Free Trade Agreement Country End Products (Other than Bahraini, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
+Line item No.
+Country of origin
+
+
+
+
+
+
+[List as necessary]
+      (iii) The Offeror shall list those supplies that are foreign end products (other than those listed in paragraph (g)(1)(ii) of this provision) as defined in the clause of this solicitation entitled ‘‘Buy American—Free Trade Agreements—Israeli Trade Act.’’ The Offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except for those that are COTS items. If the percentage of the domestic content is unknown, select ‘‘no’’.
+Other Foreign End Products:
+Line item No.
+Country of origin
+Exceeds 55% domestic content (yes/no)
+
+
+
+
+
+
+
+
+
+[List as necessary]
+      (iv) The Offeror shall list the line item numbers of domestic end products that contain a critical component (see FAR 25.105). Line Item No. ___________
+[List as necessary]
+      (v) The Government will evaluate offers in accordance with the policies and procedures of FAR part 25.
+    (2) Buy American—Free Trade Agreements—Israeli Trade Act Certificate, Alternate II. If Alternate II to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
+  (g)(1)(ii) The offeror certifies that the following supplies are Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
+Israeli End Products:
+Line item No.
+Country of origin
+
+
+
+
+
+
+[List as necessary]
+    (3) Buy American—Free Trade Agreements—Israeli Trade Act Certificate, Alternate III. If Alternate III to the clause at 52.225–3 is included in this solicitation, substitute the following paragraphs (g)(1)(i)(B) and (g)(1)(ii) for paragraphs (g)(1)(i)(B) and (g)(1)(ii) of the basic provision:
+  (g)(1)(i)(B) The terms ‘‘Korean end product’’, ‘‘commercially available off-the shelf (COTS) item,’’ ‘‘critical component,’’ ‘‘domestic end product,’’ ‘‘end product,’’ ‘‘foreign end product,’’ ‘‘Free Trade Agreement country,’’ ‘‘Free Trade Agreement country end product,’’ ‘‘Israeli end product,’’ and ‘‘United States’’ are defined in the clause of this solicitation entitled ‘‘Buy American— Free Trade Agreements—Israeli Trade Act.’’
+  (g)(1)(ii) The Offeror certifies that the following supplies are Korean end products or Israeli end products as defined in the clause of this solicitation entitled ‘‘Buy American—Free Trade Agreements—Israeli Trade Act’’:
+Korean End Products or Israeli End Products:
+
+Line item No.
+Country of origin
+
+
+
+
+
+
+[List as necessary]
+    (4) Trade Agreements Certificate. (Applies only if the clause at FAR 52.225-5, Trade Agreements, is included in this solicitation.)
+      (i) The offeror certifies that each end product, except those listed in paragraph (g)(4)(ii) of this provision, is a U.S.-made or designated country end product, as defined in the clause of this solicitation entitled “Trade Agreements”.
+      (ii) The offeror shall list as other end products those end products that are not U.S.-made or designated country end products.
+Other End Products:
+Line item No.
+Country of origin
+
+
+
+
+
+
+[List as necessary]
+      (iii) The Government will evaluate offers in accordance with the policies and procedures of FAR Part 25.  For line items covered by the WTO GPA, the Government will evaluate offers of U.S.-made or designated country end products without regard to the restrictions of the Buy American statute. The Government will consider for award only offers of U.S.-made or designated country end products unless the Contracting Officer determines that there are no offers for such products or that the offers for such products are insufficient to fulfill the requirements of the solicitation.
+  (h) Certification Regarding Responsibility Matters (Executive Order 12689). (Applies only if the contract value is expected to exceed the simplified acquisition threshold.) The offeror certifies, to the best of its knowledge and belief, that the offeror and/or any of its principals—
+    (1) [  ] Are, [  ] are not presently debarred, suspended, proposed for debarment, or declared ineligible for the award of contracts by any Federal agency;
+    (2) [  ] Have, [  ] have not, within a three-year period preceding this offer, been convicted of or had a civil judgment rendered against them for: commission of fraud or a criminal offense in connection with obtaining, attempting to obtain, or performing a Federal, state or local government contract or subcontract; violation of Federal or state antitrust statutes relating to the submission of offers; or Commission of embezzlement, theft, forgery, bribery, falsification or destruction of records, making false statements, tax evasion, violating Federal criminal tax laws, or receiving stolen property;
+    (3) [  ] Are, [  ] are not presently indicted for, or otherwise criminally or civilly charged by a Government entity with, commission of any of these offenses enumerated in paragraph (h)(2) of this clause; and
+    (4) [  ] Have, [  ] have not, within a three-year period preceding this offer, been notified of any delinquent Federal taxes in an amount that exceeds the threshold at 9.104–5(a)(2) for which the liability remains unsatisfied.
+      (i) Taxes are considered delinquent if both of the following criteria apply:
+        (A) The tax liability is finally determined. The liability is finally determined if it has been assessed. A liability is not finally determined if there is a pending administrative or judicial challenge. In the case of a judicial challenge to the liability, the liability is not finally determined until all judicial appeal rights have been exhausted.
+        (B) The taxpayer is delinquent in making payment. A taxpayer is delinquent if the taxpayer has failed to pay the tax liability when full payment was due and required. A taxpayer is not delinquent in cases where enforced collection action is precluded.
+      (ii) Examples.
+        (A) The taxpayer has received a statutory notice of deficiency, under I.R.C. Sec.  6212, which entitles the taxpayer to seek Tax Court review of a proposed tax deficiency. This is not a delinquent tax because it is not a final tax liability. Should the taxpayer seek Tax Court review, this will not be a final tax liability until the taxpayer has exercised all judicial appeal rights.
+        (B) The IRS has filed a notice of Federal tax lien with respect to an assessed tax liability, and the taxpayer has been issued a notice under I.R.C. Sec.  6320 entitling the taxpayer to request a hearing with the IRS Office of Appeals contesting the lien filing, and to further appeal to the Tax Court if the IRS determines to sustain the lien filing. In the course of the hearing, the taxpayer is entitled to contest the underlying tax liability because the taxpayer has had no prior opportunity to contest the liability. This is not a delinquent tax because it is not a final tax liability. Should the taxpayer seek tax court review, this will not be a final tax liability until the taxpayer has exercised all judicial appeal rights.
+        (C) The taxpayer has entered into an installment agreement pursuant to I.R.C. Sec.  6159. The taxpayer is making timely payments and is in full compliance with the agreement terms. The taxpayer is not delinquent because the taxpayer is not currently required to make full payment.
+        (D) The taxpayer has filed for bankruptcy protection. The taxpayer is not delinquent because enforced collection action is stayed under 11 U.S.C. 362 (the Bankruptcy Code).
+  (i) Certification Regarding Knowledge of Child Labor for Listed End Products (Executive Order 13126).
+    (1) Listed end products.
+Listed end product
+Listed countries of origin
+
+
+
+
+
+
+
+
+
+
+    (2) Certification. [If the Contracting Officer has identified end products and countries of origin in paragraph (i)(1) of this provision, then the offeror must certify to either (i)(2)(i) or (i)(2)(ii) by checking the appropriate block.]
+    [ ] (i) The offeror will not supply any end product listed in paragraph (i)(1) of this provision that was mined, produced, or manufactured in the corresponding country as listed for that product.
+    [ ] (ii) The offeror may supply an end product listed in paragraph (i)(1) of this provision that was mined, produced, or manufactured in the corresponding country as listed for that product. The offeror certifies that it has made a good faith effort to determine whether forced or indentured child labor was used to mine, produce, or manufacture any such end product furnished under this contract. On the basis of those efforts, the offeror certifies that it is not aware of any such use of child labor.
+  (j) Place of manufacture. (Does not apply unless the solicitation is predominantly for the acquisition of manufactured end products.) For statistical purposes only, the offeror shall indicate whether the place of manufacture of the end products it expects to provide in response to this solicitation is predominantly—
+    (1) __ In the United States (Check this box if the total anticipated price of offered end products manufactured in the United States exceeds the total anticipated price of offered end products manufactured outside the United States); or
+    (2) __ Outside the United States.
+  (k) Certificates regarding exemptions from the application of the Service Contract Labor Standards. (Certification by the offeror as to its compliance with respect to the contract also constitutes its certification as to compliance by its subcontractor if it subcontracts out the exempt services.) [The contracting officer is to check a box to indicate if paragraph (k)(1) or (k)(2) applies.]
+    [] (1) Maintenance, calibration, or repair of certain equipment as described in FAR 22.1003-4(c)(1). The offeror [  ] does [  ] does not certify that—
+      (i) The items of equipment to be serviced under this contract are used regularly for other than Governmental purposes and are sold or traded by the offeror (or subcontractor in the case of an exempt subcontract) in substantial quantities to the general public in the course of normal business operations;
+      (ii) The services will be furnished at prices which are, or are based on, established catalog or market prices (see FAR 22.1003- 4(c)(2)(ii)) for the maintenance, calibration, or repair of such equipment; and
+      (iii) The compensation (wage and fringe benefits) plan for all service employees performing work under the contract will be the same as that used for these employees and equivalent employees servicing the same equipment of commercial customers.
+    [] (2) Certain services as described in FAR 22.1003- 4(d)(1). The offeror [  ] does [  ] does not certify that—
+      (i) The services under the contract are offered and sold regularly to non-Governmental customers, and are provided by the offeror (or subcontractor in the case of an exempt subcontract) to the general public in substantial quantities in the course of normal business operations;
+      (ii) The contract services will be furnished at prices that are, or are based on, established catalog or market prices (see FAR 22.1003-4(d)(2)(iii));
+      (iii) Each service employee who will perform the services under the contract will spend only a small portion of his or her time (a monthly average of less than 20 percent of the available hours on an annualized basis, or less than 20 percent of available hours during the contract period if the contract period is less than a month) servicing the Government contract; and
+      (iv) The compensation (wage and fringe benefits) plan for all service employees performing work under the contract is the same as that used for these employees and equivalent employees servicing commercial customers.
+    (3) If paragraph (k)(1) or (k)(2) of this clause applies—
+      (i) If the offeror does not certify to the conditions in paragraph (k)(1) or (k)(2) and the Contracting Officer did not attach a Service Contract Labor Standards wage determination to the solicitation, the offeror shall notify the Contracting Officer as soon as possible; and
+      (ii) The Contracting Officer may not make an award to the offeror if the offeror fails to execute the certification in paragraph (k)(1) or (k)(2) of this clause or to contact the Contracting Officer as required in paragraph (k)(3)(i) of this clause.
+  (l) Taxpayer Identification Number (TIN) (26 U.S.C. 6109, 31 U.S.C. 7701).  (Not applicable if the offeror is required to provide this information to SAM to be eligible for award.)
+    (1) All offerors must submit the information required in paragraphs (l)(3) through (l)(5) of this provision to comply with debt collection requirements of 31 U.S.C. 7701(c) and 3325(d), reporting requirements of 26 U.S.C. 6041, 6041A, and 6050M, and implementing regulations issued by the Internal Revenue Service (IRS).
+    (2) The TIN may be used by the Government to collect and report on any delinquent amounts arising out of the offeror's relationship with the Government (31 U.S.C. 7701(c)(3)).  If the resulting contract is subject to the payment reporting requirements described in FAR 4.904, the TIN provided hereunder may be matched with IRS records to verify the accuracy of the offeror's TIN.
+    (3) Taxpayer Identification Number (TIN).
+      [  ] TIN:  _____________________.
+      [  ] TIN has been applied for.
+      [  ] TIN is not required because:
+      [  ] Offeror is a nonresident alien, foreign corporation, or foreign partnership that does not have income effectively connected with the conduct of a trade or business in the United States and does not have an office or place of business or a fiscal paying agent in the United States;
+      [  ] Offeror is an agency or instrumentality of a foreign government;
+      [  ] Offeror is an agency or instrumentality of the Federal Government.
+    (4) Type of organization.
+      [  ] Sole proprietorship;
+      [  ] Partnership;
+      [  ] Corporate entity (not tax-exempt);
+      [  ] Corporate entity (tax-exempt);
+      [  ] Government entity (Federal, State, or local);
+      [  ] Foreign government;
+      [  ] International organization per 26 CFR 1.6049-4;
+      [  ] Other _________________________.
+    (5) Common parent.
+      [  ] Offeror is not owned or controlled by a common parent;
+      [  ] Name and TIN of common parent:
+           Name _____________________.
+           TIN _____________________.
+  (m) Restricted business operations in Sudan. By submission of its offer, the offeror certifies that the offeror does not conduct any restricted business operations in Sudan.
+  (n) Prohibition on Contracting with Inverted Domestic Corporations.
+    (1) Government agencies are not permitted to use appropriated (or otherwise made available) funds for contracts with either an inverted domestic corporation, or a subsidiary of an inverted domestic corporation, unless the exception at 9.108-2(b) applies or the requirement is waived in accordance with the procedures at 9.108-4.
+    (2) Representation. The Offeror represents that—
+      (i) It [ ] is, [ ] is not an inverted domestic corporation; and
+      (ii) It [ ] is, [ ] is not a subsidiary of an inverted domestic corporation.
+  (o) Prohibition on contracting with entities engaging in certain activities or transactions relating to Iran.
+    (1) The offeror shall email questions concerning sensitive technology to the Department of State at CISADA106@state.gov.
+    (2) Representation and certifications. Unless a waiver is granted or an exception applies as provided in paragraph (o)(3) of this provision, by submission of its offer, the offeror—
+      (i) Represents, to the best of its knowledge and belief, that the offeror does not export any sensitive technology to the government of Iran or any entities or individuals owned or controlled by, or acting on behalf or at the direction of, the government of Iran;
+      (ii) Certifies that the offeror, or any person owned or controlled by the offeror, does not engage in any activities for which sanctions may be imposed under section 5 of the Iran Sanctions Act; and 
+      (iii) Certifies that the offeror, and any person owned or controlled by the offeror, does not knowingly engage in any transaction that exceeds the threshold at FAR 25.703–2(a)(2) with Iran’s Revolutionary Guard Corps or any of its officials, agents, or affiliates, the property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (see OFAC’s Specially Designated Nationals and Blocked Persons List at https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx).
+    (3) The representation and certification requirements of paragraph (o)(2) of this provision do not apply if—
+      (i) This solicitation includes a trade agreements certification (e.g., 52.212–3(g) or a comparable agency provision); and
+      (ii) The offeror has certified that all the offered products to be supplied are designated country end products.
+  (p) Ownership or Control of Offeror. (Applies in all solicitations when there is a requirement to be registered in SAM or a requirement to have a unique entity identifier in the solicitation).
+    (1) The Offeror represents that it [ ] has or [ ] does not have an immediate owner. If the Offeror has more than one immediate owner (such as a joint venture), then the Offeror shall respond to paragraph (2) and if applicable, paragraph (3) of this provision for each participant in the joint venture.
+    (2) If the Offeror indicates “has” in paragraph (p)(1) of this provision, enter the following information:
+    Immediate owner CAGE code: ____.
+    Immediate owner legal name: ____.
+    (Do not use a “doing business as” name)
+    Is the immediate owner owned or controlled by another entity: [ ] Yes or [ ] No.
+    (3) If the Offeror indicates “yes” in paragraph (p)(2) of this provision, indicating that the immediate owner is owned or controlled by another entity, then enter the following information:
+    Highest-level owner CAGE code: ____.
+    Highest-level owner legal name: ____.
+    (Do not use a “doing business as” name)
+  (q) Representation by Corporations Regarding Delinquent Tax Liability or a Felony Conviction under any Federal Law. 
+    (1) As required by sections 744 and 745 of Division E of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235), and similar provisions, if contained in subsequent appropriations acts, The Government will not enter into a contract with any corporation that—
+      (i) Has any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability, where the awarding agency is aware of the unpaid tax liability, unless an agency has considered suspension or debarment of the corporation and made a determination that suspension or debarment is not necessary to protect the interests of the Government; or
+      (ii) Was convicted of a felony criminal violation under any Federal law within the preceding 24 months, where the awarding agency is aware of the conviction, unless an agency has considered suspension or debarment of the corporation and made a determination that this action is not necessary to protect the interests of the Government.
+    (2) The Offeror represents that—
+      (i) It is [ ] is not [ ] a corporation that has any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability; and
+      (ii) It is [ ] is not [ ] a corporation that was convicted of a felony criminal violation under a Federal law within the preceding 24 months.
+  (r) Predecessor of Offeror. (Applies in all solicitations that include the provision at 52.204-16, Commercial and Government Entity Code Reporting.)
+    (1) The Offeror represents that it [ ] is or [ ] is not a successor to a predecessor that held a Federal contract or grant within the last three years.
+    (2) If the Offeror has indicated “is” in paragraph (r)(1) of this provision, enter the following information for all predecessors that held a Federal contract or grant within the last three years (if more than one predecessor, list in reverse chronological order):
+    Predecessor CAGE code: ____ (or mark “Unknown”).
+    Predecessor legal name: ____.
+    (Do not use a “doing business as” name).
+  (s) [Reserved]
+  (t) Public Disclosure of Greenhouse Gas Emissions and Reduction Goals. Applies in all solicitations that require offerors to register in SAM (12.301(d)(1)).
+    (1) This representation shall be completed if the Offeror received $7.5 million or more in contract awards in the prior Federal fiscal year. The representation is optional if the Offeror received less than $7.5 million in Federal contract awards in the prior Federal fiscal year.
+    (2) Representation. [Offeror to check applicable block(s) in paragraph (t)(2)(i) and (ii)]. (i) The Offeror (itself or through its immediate owner or highest-level owner) [ ] does, [ ] does not publicly disclose greenhouse gas emissions, i.e., makes available on a publicly accessible Web site the results of a greenhouse gas inventory, performed in accordance with an accounting standard with publicly available and consistently applied criteria, such as the Greenhouse Gas Protocol Corporate Standard.
+      (ii) The Offeror (itself or through its immediate owner or highest-level owner) [ ] does, [ ] does not publicly disclose a quantitative greenhouse gas emissions reduction goal, i.e., make available on a publicly accessible Web site a target to reduce absolute emissions or emissions intensity by a specific quantity or percentage.
+      (iii) A publicly accessible Web site includes the Offeror’s own Web site or a recognized, third-party greenhouse gas emissions reporting program.
+    (3) If the Offeror checked “does” in paragraphs (t)(2)(i) or (t)(2)(ii) of this provision, respectively, the Offeror shall provide the publicly accessible Web site(s) where greenhouse gas emissions and/or reduction goals are reported:_____.
+  (u)(1) In accordance with section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions), Government agencies are not permitted to use appropriated (or otherwise made available) funds for contracts with an entity that requires employees or subcontractors of such entity seeking to report waste, fraud, or abuse to sign internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or subcontractors from lawfully reporting such waste, fraud, or abuse to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information.
+    (2) The prohibition in paragraph (u)(1) of this provision does not contravene requirements applicable to Standard Form 312 (Classified Information Nondisclosure Agreement), Form 4414 (Sensitive Compartmented Information Nondisclosure Agreement), or any other form issued by a Federal department or agency governing the nondisclosure of classified information.
+    (3) Representation. By submission of its offer, the Offeror represents that it will not require its employees or subcontractors to sign or comply with internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or subcontractors from lawfully reporting waste, fraud, or abuse related to the performance of a Government contract to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information (e.g., agency Office of the Inspector General).
+  (v) Covered Telecommunications Equipment or Services—Representation. Section 889(a)(1)(A) and section 889(a)(1)(B) of Public Law 115-232.
+    (1) The Offeror shall review the list of excluded parties in the System for Award Management (SAM) (https://www.sam.gov) for entities excluded from receiving federal awards for “covered telecommunications equipment or services”.
+    (2) The Offeror represents that—
+      (i) It [ ] does, [ ] does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument.
+      (ii) After conducting a reasonable inquiry for purposes of this representation, that it [ ] does, [ ] does not use covered telecommunications equipment or services, or any equipment, system, or service that uses covered telecommunications equipment or services.
+(End of Provision)
+Department of Veterans Affairs Network Contracting Office 10, 24 Frank Lloyd Wright Drive, Ann Arbor, MI 48105, is soliciting quotes for a wheelchair van and car for hire (taxi) transportation services for the John D Dingell VA Medical Center, 4646 John R ST, Detroit, MI 48602, and its Community Based Outpatient Clinics.  NAICS Code 485991, size standard $19 million.
+
+Government intends to award a three-year Indefinite Delivery Indefinite Quantity (IDIQ) contract with a start date of January 1, 2025.

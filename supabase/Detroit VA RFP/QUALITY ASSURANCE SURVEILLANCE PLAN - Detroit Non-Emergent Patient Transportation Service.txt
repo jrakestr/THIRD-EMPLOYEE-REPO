@@ -1,0 +1,315 @@
+Quality Assurance Surveillance Plan
+Non-Emergent Patient Transportation Services
+John D. Dingell VAMC
+1. PURPOSE
+This Quality Assurance Surveillance Plan (QASP) is a Government developed and applied document used to
+make sure that systematic quality assurance methods are used in the administration of the Performance Based
+Acquisition (PBA) standards included in this contract. The intent is to ensure that the Contractor performs in
+accordance with performance metrics set forth in the contract documents, that the Government receives the
+quality of services called for in the contract and that the Government only pays for the acceptable level of
+services received.
+2. SCOPE
+To fully understand the roles and the responsibilities of the parties, it is important to first define the distinction
+in terminology between the Quality Control Plan and the Quality Assurance Surveillance Plan. The Contractor,
+and not the Government, is responsible for management and quality control actions necessary to meet the
+quality standards set forth in the contract. The Contractor develops and submits his/her Quality Control Plan
+(QCP) for Government approval in compliance with his contract deliverables. Once accepted, the Contractor
+then uses the QCP to guide and to rigorously document the implementation of the required management and
+quality control actions to achieve the specified results. The QASP on the other hand, is put in place to provide
+Government surveillance oversight of the Contractor’s quality control efforts to assure that they are timely,
+effective and are delivering the results specified in the contract. The QASP is not a part of the contract, nor is it
+intended to duplicate the Contractor’s QCP. The Government may provide the Contractor an information copy
+of the QASP as an Attachment to the solicitation to support the Contractor’s efforts in developing a QCP that
+will interrelate with the Government’s QASP.
+3. GOVERNMENT RESOURCES/RESPONSIBILITIES
+The following personnel shall oversee and coordinate surveillance activities.
+a. CONTRACTING OFFICER: The Contracting Officer (C.O.), ensures performance of all necessary actions
+for effective contracting, ensures compliance with the terms of the contract, and safeguards the interests of the
+United States in the contractual relationship. It is the Contracting Officer that assures the Contractor receives
+impartial, fair, and equitable treatment under the contract. The Contracting Officer is ultimately responsible for
+the final determination of the adequacy of the Contractor’s performance.
+Assigned CO: Christopher D. Gundy
+Organization or Agency: Department of Veterans Affairs, NCO10
+b. Contracting Officer’s Representative (COR) - The COR provides detailed technical oversight of the
+Contractor’s performance and reports his or her findings to the C.O. in a timely, complete and impartial fashion.
+The COR is not empowered to make any contractual commitments or to authorize any contractual changes on
+the Government’s behalf. Any changes that the Contractor deems may affect contract, price, terms, or
+conditions shall be referred to the Contracting Officer for action.
+Assigned COR: Joel Matanzas
+FOR OFFICIAL USE ONLY
+4. CONTRACTOR REPRESENTATIVES
+a. Program Manager:
+b. Other Contractor Personnel - To be completed at award.
+5. METHODS OF QA SURVEILLANCE
+The below listed methods of surveillance shall be used in the administration of the QASP. In addition to
+specific instructions that may be mentioned, the appropriate and standardized form that is to be used for
+documentation of QA surveillance is the Surveillance Activity Checklist, included as Attachment A.
+Customer Feedback - Customer feedback may be obtained either from the results of formal customer
+satisfaction surveys or from random customer complaints. Customer complaints, to be considered valid, must
+set forth clearly and in writing the detailed nature of the complaint, must be signed and forwarded to the COR.
+The COR shall maintain a summary log of all formally received customer complaints as well as a copy of each
+complaint in a documentation file. The COR shall also keep the tabulated results of all customer satisfaction
+surveys on file and shall enter the summary results into the Surveillance Activity Checklist. (Copies of all
+records shall be submitted to the CO upon receipt for placement in the official contract file, and when
+necessary, determination of actions.)
+100% Inspection - The COR shall monitor each patient delivery and enter performance results into the
+Surveillance Activity Checklist.
+Periodic Inspection - Periodic inspections shall be conducted when specified in the contract/PWS. For the
+potential tasks that have been identified so far and included in this QASP, the COR performs the periodic
+inspection on a monthly basis.
+Random Monitoring - Random monitoring shall be conducted if and when specified in the contract. For the
+potential tasks that have been identified so far and included in this QASP, the random monitoring shall be
+performed by the COR.
+5. PERFORMANCE STANDARDS
+The Performance Requirements Summary in the Performance Work Statement (PWS) includes performance
+standards. The Government shall use these standards to determine contractor performance and shall
+compare contractor performance to the Acceptable Quality Level (AQL) and determine incentives.
+Standard
+Performance
+Threshold
+Performance Objective -Task
+SS PWS Para
+Provide on- time
+transportation service to
+SS 1 Para.6
+appointments
+Shall ensure all passengers arrive at
+their designated appointment
+location 15 to 30 minutes prior to
+the appointment time.
+95%
+Compliance
+Provide on- time
+SS 2 Para. 7
+transportation service -
+return trips
+Passenger picked up within 30
+minutes of call from the VTS/AOD.
+97%
+Method of
+Surveillance
+100%
+Surveillance
+of each
+patient pick-
+up.
+Customer
+Feedback
+FOR OFFICIAL USE ONLY
+Standard
+Performance
+SS
+Performance Objective -Task
+PWS Para
+Threshold
+Method of
+Surveillance
+Incident Reporting
+The Contractor shall submit all
+injury reports within 24 hours of
+SS 3 Para. 16
+incident to the VTS/COR and AOD
+97%
+Random
+Compliance
+Monitoring
+for inclusion into the passenger's
+administrative chart.
+The Contractor shall submit invoices
+Invoice Reports 100%
+95%
+SS4 Para. 21
+with required information
+Compliance
+contained in the PWS.
+Surveillance
+Vehicle Requirements
+accomplish all services under
+this contract.
+SS5 Para. 2
+Contractor to maintain fleet of
+vehicles in accordance with
+paragraph 2 of the PWS to
+include providing reports
+quarterly and upon request of
+the COR or CO.
+95%
+Periodic
+Compliance
+Inspection
+Drivers shall complete
+SS6 Para. 4
+training requirements
+outlined in this PWS
+Contractor to ensure drivers meet
+Periodic
+training requirements of paragraph
+4
+95%
+Inspection
+6. INCENTIVES
+The Government shall consider the Contractor’s performance when making a determination to issue annual task
+orders.
+7. DOCUMENTING PERFORMANCE
+Acceptable Performance - The Government shall document acceptable performance accordingly. Any report
+may become a part of the supporting documentation for any contractual action.
+Unacceptable Performance - When unacceptable performance occurs, the COR shall inform the CO. This will
+always be in writing although when circumstances necessitate immediate verbal communication, that
+communication will be followed up in writing. The COR shall document the discussion and place it in the COR
+file.
+When the CO determines formal written communication is required, the COR shall prepare a Contract
+Discrepancy Report (CDR), and present it to the Contractor's program manager.
+The Contractor shall acknowledge receipt of the CDR in writing to the CO. The CDR will state how long after
+receipt the Contractor has to take corrective action. The CDR will also specify if the Contractor is required to
+prepare a corrective action plan to document how the Contractor shall correct the unacceptable performance and
+avoid a recurrence. The CO shall review the Contractor's corrective action plan to determine acceptability.
+FOR OFFICIAL USE ONLY
+Any CDRs may become a part of the supporting documentation for any contractual action deemed necessary by
+the CO.
+8. FREQUENCY OF MEASUREMENT
+Frequency of Measurement - During contract/order performance, the COR will periodically analyze whether
+the negotiated frequency of surveillance is appropriate for the work being performed, and at a minimum shall be
+quarterly.
+Frequency of Performance Assessment Meetings - The COR shall meet with the Contractor quarterly to
+assess performance and shall provide a written assessment to the CO.
+Evaluation Ratings for Assessment
+EVALUATION RATINGS
+DEFINITIONS Rating
+Exceptional
+Very Good
+Satisfactory
+Definition Notes
+Performance meets contractual
+requirements and exceeds many to the
+Government’s benefit. The
+contractual performance of the
+element or sub-element being
+evaluated was accomplished with few
+minor problems for which corrective
+actions taken by the contractor were
+highly effective.
+Performance meets contractual
+requirements and exceeds some to the
+Government’s benefit. The
+contractual performance of the
+element or sub-element being
+evaluated was accomplished with
+some minor problems for which
+corrective actions taken by the
+contractor were effective.
+Performance meets contractual
+requirements. The contractual
+performance of the element or sub-
+element contains some minor
+problems for which corrective actions
+taken by the contractor appear or
+were satisfactory.
+To justify an Exceptional rating,
+identify multiple significant events
+and state how they were of benefit to
+the Government. A singular benefit,
+however, could be of such magnitude
+that it alone constitutes an
+Exceptional rating. Also, there should
+have been NO significant weaknesses
+identified.
+To justify a Very Good rating,
+identify a significant event and state
+how it was a benefit to the
+Government. There should have been
+no significant weaknesses identified.
+Marginal
+Performance does not meet some
+contractual requirements. The
+contractual performance of the
+element or sub-element being
+evaluated reflects a serious problem
+for which the contractor has not yet
+identified corrective actions. The
+contractor’s proposed actions appear
+FOR OFFICIAL USE ONLY
+To justify a Satisfactory rating, there
+should have been only minor
+problems, or major problems the
+contractor recovered from without
+impact to the contract/order. There
+should have been NO significant
+weaknesses identified. A fundamental
+principle of assigning ratings is that
+contractors will not be evaluated with
+a rating lower than Satisfactory solely
+for not performing beyond the
+requirements of the contract/order.
+To justify Marginal performance,
+identify a significant event in each
+category that the contractor had
+trouble overcoming and state how it
+impacted the Government. A
+Marginal rating should be supported
+by referencing the management tool
+that notified the contractor of the
+contractual deficiency (e.g.,
+only marginally effective or were not
+fully implemented.
+management, quality, safety, or
+environmental deficiency report or
+letter).
+Unsatisfactory
+Performance does not meet most
+contractual requirements and
+recovery is not likely in a timely
+manner. The contractual performance
+of the element or sub-element
+contains a serious problem(s) for
+which the contractor’s corrective
+actions appear or were ineffective.
+To justify an Unsatisfactory rating,
+identify multiple significant events in
+each category that the contractor had
+trouble overcoming and state how it
+impacted the Government. A singular
+problem, however, could be of such
+serious magnitude that it alone
+constitutes an unsatisfactory rating.
+An Unsatisfactory rating should be
+supported by referencing the
+management tools used to notify the
+contractor of the contractual
+deficiencies (e.g., management,
+quality, safety, or environmental
+deficiency reports, or letters).
+FOR OFFICIAL USE ONLY
+PERFORMANCE BASED SERVICE ASSESSMENT
+CONTRACTOR:
+_______________
+GOVERNMENT REQUIRING ACTIVITY:
+CONTRACT/ORDER NUMBER/ TITLE:
+PERFORMANCE PERIOD COVERED:
+NAME AND TITLE OF COR:
+DATE:
+EVALUATION RATINGS FOR ASSESSMENT
+EXCEPTIONAL
+VERY GOOD
+SATISFACTORY
+MARGINAL
+UNSATISFACTORY
+All value ratings must be supported, objective and explained in the Narrative Section for each
+Performance Objective.
+PERFORMANCE OBECTIVES:
+a. TECHNICAL/QUALITY OF PRODUCT OR SERVICE: Rating: <Value>
+How well does the contractor meet your Technical Requirement IAW the performance metrics in the PWS?
+NARRATIVE: (enter narrative)
+b. PROJECT MILESTONES AND SCHEDULE: Rating: <Value>
+How well does the contractor meet the established schedule IAW the performance metrics in the PWS?
+NARRATIVE: (enter narrative)
+c. COST & STAFFING: Rating: <Value>
+Are the staffing levels and expertise appropriate for accomplishing the mission IAW the performance metrics in
+the PWS? '
+~
+Were the invoices current, accurate and complete?
+NARRATIVE: (enter narrative in box)
+d. MANAGEMENT: Rating: <Value>
+How well did the contractor integrate/coordinate all activities needed to execute the contract IAW the
+performance metrics in the PWS?
+NARRATIVE: (enter narrative in box)
+FOR OFFICIAL USE ONLY

@@ -1,0 +1,39 @@
+Item Detail
+Annual Totals
+
+AA
+AB
+AC
+AD
+AE
+AF
+Item Number
+SLIN
+Description
+Contract Period
+Year One
+Year Two
+Year Three
+PoP Begin
+PoP End
+Unit of Measure
+EA
+Unit Price
+Extended Price
+Annual Totals
+TRP
+MI
+Estimated Quantity
+Total Estimated Contract Value
+Provide Non-Emergent Transportation Service for the John D. Dingell VA Medical Center
+Ambulatory base trip (base rate to include first 20 miles)
+Ambulatory transportation additional miles
+Wheelchare base trip (base rate to include first 20 miles)
+Wheelchair transportation additional miles
+Wait time (per 15 minutes)
+Ambulatory cancel rate
+AG
+Wheelchair cancel rate
+Line Item 1001 - Year One Total
+Line Item 2001-Year Two Total
+Line Item 3001-Year Three Total

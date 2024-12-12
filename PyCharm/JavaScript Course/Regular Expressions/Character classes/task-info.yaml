@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 129
+        length: 70
+        placeholder_text: /* Write the function for matching phone numbers like 079 999
+          99 99 */
+        initial_state:
+          length: 70
+          offset: 129
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2eBpd3LDb9OJfwhffMmp61vWWZD5yY1aColDsHsVv06nCxBL9R3Q2afi5ub/O/OgljgfGj8mVlRvBKr0Y9xqtzKlTd9M6wahOMkaCmgMg3xVcCxmMWcgryGpGPxvMDq8UyULTcYsf1bEtdBx5wLzKEyCQjZeU10oy6ShqljmQMWwJWiFvU3Ce5PNPVcMNevsNST8rEM0IQetBuVWFYHiyA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

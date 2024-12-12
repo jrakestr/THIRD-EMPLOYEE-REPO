@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 714
+        length: 102
+        placeholder_text: |-
+          /* Add promise chaining calls (2 x then + 1 x catch) for reading
+                the content of the two files */
+        initial_state:
+          length: 102
+          offset: 714
+        initialized_from_dependency: false
+        encrypted_possible_answer: WVYNzL3fdXi2ZZ5hIJSto2NxoT/DRO2Ycq3hGHgSooH/q8DPBPvXT0PFg8dbi7+T/sUaSdpLBjjyNoYMyQH+ovApEYWWKq+woImbwCdIbXduqwBC9dMPntRHi7gmtSkDLk0DLETAYHvRyPdR+TpprHnGs5N7WhDqSV4OsNK8InOoAQOD6H+NLA/LA3usYBlh3NMaK83dMe8ffXBkce4VCqB5w2qwZ01ozDKxeVhF7We+4MKAtdAuZoED9xSwYyc24T4e/i5wemBoPgwFxWyYgH6jjFeR6gdOytSHH1bembE=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/input1.txt
+    visible: true
+    learner_created: false
+  - name: test/input2.txt
+    visible: true
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,204 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 205
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 202
+        initialized_from_dependency: false
+        encrypted_possible_answer: /gxBgZ9DkPurQeAhOZGqYg==
+        selected: true
+        status: Solved
+      - offset: 330
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 324
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Solved
+      - offset: 450
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 441
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+        selected: false
+        status: Solved
+      - offset: 572
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 560
+        initialized_from_dependency: false
+        encrypted_possible_answer: Qu7shsF+m/+OKkpPMAYcHQ==
+        selected: false
+        status: Solved
+      - offset: 694
+        length: 6
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 682
+        initialized_from_dependency: false
+        encrypted_possible_answer: n/14/Rjb07m3Io2J2L2bQA==
+        selected: true
+        status: Solved
+      - offset: 781
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 803
+        initialized_from_dependency: false
+        encrypted_possible_answer: hbquGubkLAZDknknZE9Jfw==
+        selected: true
+        status: Solved
+      - offset: 900
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 919
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+        selected: true
+        status: Solved
+      - offset: 1025
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1038
+        initialized_from_dependency: false
+        encrypted_possible_answer: TApFM4pZr4W3x14ceqY0Bg==
+        selected: false
+        status: Solved
+      - offset: 1158
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1160
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0N7vWGiJZ3AS86sHakOMlw==
+        selected: false
+        status: Solved
+      - offset: 1285
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1282
+        initialized_from_dependency: false
+        encrypted_possible_answer: VG7fqEGkhk0y6eqTieB3fw==
+        selected: false
+        status: Solved
+      - offset: 1413
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1400
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5LsmQiryY/EQFMPF9HQitw==
+        selected: false
+        status: Solved
+      - offset: 1541
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1523
+        initialized_from_dependency: false
+        encrypted_possible_answer: i00eevpDCkgtdx3mqEhkJA==
+        selected: true
+        status: Solved
+      - offset: 1677
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1645
+        initialized_from_dependency: false
+        encrypted_possible_answer: /VNIM9lPTardcA9xaJ54Qg==
+        selected: false
+        status: Solved
+      - offset: 1801
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1761
+        initialized_from_dependency: false
+        encrypted_possible_answer: O+LaGtnUN2iHx3riSrMFAQ==
+        selected: false
+        status: Solved
+      - offset: 1933
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1881
+        initialized_from_dependency: false
+        encrypted_possible_answer: kARzkaXqk1BNZVKs1fiXhw==
+        selected: false
+        status: Solved
+      - offset: 2061
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1999
+        initialized_from_dependency: false
+        encrypted_possible_answer: A3QGFZNAq8JIg7e+3CoBww==
+        selected: false
+        status: Solved
+      - offset: 2191
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 2118
+        initialized_from_dependency: false
+        encrypted_possible_answer: x89QuglckNQczDD7qbVrTw==
+        selected: false
+        status: Solved
+      - offset: 2319
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 2236
+        initialized_from_dependency: false
+        encrypted_possible_answer: LwNO7dOWeFErQQIIHUBk3g==
+        selected: false
+        status: Solved
+      - offset: 2451
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 2356
+        initialized_from_dependency: false
+        encrypted_possible_answer: OtDVKcT17IR/dNCCWWVjig==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 11 Dec 2024 23:43:04 UTC"
+record: -1

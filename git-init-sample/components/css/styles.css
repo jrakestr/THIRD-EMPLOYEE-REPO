@@ -1,0 +1,90 @@
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+  
+  /* Element Selectors */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    flex-wrap: wrap;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    justify-items: center;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    padding: 10px 0;
+    flex-direction: row;
+  }
+  
+  header nav ul {
+    list-style-type: none;
+    text-align: center;
+    justify-content: flex-start;
+  }
+  
+  header nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Class Selectors */
+  .container {
+    justify-content: center;
+    padding: 60px 20px 20px; /* Add padding to avoid content being hidden behind fixed header */
+    text-align: center;
+
+      
+}
+  
+  .main-title {
+    color: #0073e6;
+    text-align: center;
+  }
+  
+  .section-title {
+    color: #e6007a;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form input {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  form button {
+    background-color: #0073e6;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #005bb5;
+  }
+  

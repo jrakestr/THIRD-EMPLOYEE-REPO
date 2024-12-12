@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NFL Prediction Tracker</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+
+<body>
+
+  <!--Navbar-->
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#"><img src="img/nfl.png" alt="nfl logo" width="80" /></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#dashboard">Dashboard</a>
+          </li> 
+          <li class="nav-item">
+            <a class="nav-link" href="#games">Games</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#details">Details</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#notes">Notes</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!--Carousel-->
+  <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <h1 class="display-2 text-center">Welcome to the NFL Prediction Tracker</h1>
+        <img src="img/Packers_Bears.png" class="d-block w-100" alt="packers vs bears">
+      </div>
+      <div class="carousel-item">
+        <img src="img/Giants_Cowboys.png" class="d-block w-100" alt="giants vs cowboys">
+      </div>
+      <div class="carousel-item">
+        <img src="img/Patriots_Dolphins.png" class="d-block w-100" alt="patriots vs dolphins">
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+      data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+      data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+  <!--Games Table Container-->
+  <div class="container">
+    <h1 id="games" class="display-5 text-center">Upcoming Games </h1>
+    <div class="p-3 text-primary-emphasis bg-light-subtle border border-tertiery-subtle rounded-3"><em>Here is where you
+        can find all of the latest NFL
+        predictions and game notes.</em></p>
+      <!-- Prediction table -->
+      <div class="table-responsive text-center"></div>
+      <table class="table align-middle">
+        <thead class="table-dark">
+          <tr class="align-top border">
+            <!--Table headers-->
+
+            <th scope="col">Away Team</th>
+            <th scope="col">Predicted Away Score</th>
+            <th scope="col">Home Team</th>
+            <th scope="col">Predicted Home Score</th>
+            <th scope="col">Predicted Total</th>
+            <th scopoe="col">Game Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!--Table rows-->
+          <tr class="table-primary">
+            <td>Packers</td>
+            <td>24</td>
+            <td>Bears</td>
+            <td>32</td>
+            <td>56</td>
+            <td>Bears are alwaya going to beat the packers no matter the date, time or players involved. done. </td>
+          </tr>
+          <tr class="table-secondary">
+            <td>Cowboys</td>
+            <td>22</td>
+            <td>Giants</td>
+            <td>24</td>
+            <td>46</td>
+            <td>Cowboys should lose last second in normal Cowboys fashion.</td>
+          </tr>
+          <tr class="table-primary">
+            <td>Patriots</td>
+            <td>19</td>
+            <td>Dolphins</td>
+            <td>35</td>
+            <td>54</td>
+            <td>Tua is back baby!</td>
+          <tr class="table-secondary">
+            <td>Cowboys</td>
+            <td>22</td>
+            <td>Giants</td>
+            <td>24</td>
+            <td>46</td>
+            <td>Cowboys should lose last second in normal Cowboys fashion.</td>
+          </tr>
+          <tr class="table-primary">
+            <td>Patriots</td>
+            <td>19</td>
+            <td>Dolphins</td>
+            <td>35</td>
+            <td>54</td>
+            <td>Tua is back baby!</td>
+          <tr class="table-secondary">
+            <td>Cowboys</td>
+            <td>22</td>
+            <td>Giants</td>
+            <td>24</td>
+            <td>46</td>
+            <td>Cowboys should lose last second in normal Cowboys fashion.</td>
+          </tr>
+          <tr class="table-primary">
+            <td>Patriots</td>
+            <td>19</td>
+            <td>Dolphins</td>
+            <td>35</td>
+            <td>54</td>
+            <td>Tua is back baby!</td>
+          </tr>
+          <tr class="table-secondary">
+            <td>Cowboys</td>
+            <td>22</td>
+            <td>Giants</td>
+            <td>24</td>
+            <td>46</td>
+            <td>Cowboys should lose last second in normal Cowboys fashion.</td>
+          </tr>
+          <tr class="table-primary">
+            <td>Patriots</td>
+            <td>19</td>
+            <td>Dolphins</td>
+            <td>35</td>
+            <td>54</td>
+            <td>Tua is back baby!</td>
+          <tr class="table-secondary">
+            <td>Cowboys</td>
+            <td>22</td>
+            <td>Giants</td>
+            <td>24</td>
+            <td>46</td>
+            <td>Cowboys should lose last second in normal Cowboys fashion.</td>
+          </tr>
+          <tr class="table-primary">
+            <td>Patriots</td>
+            <td>19</td>
+            <td>Dolphins</td>
+            <td>35</td>
+            <td>54</td>
+            <td>Tua is back baby!</td>
+          </tr>
+          <tr class="table-secondary">
+            <td>Cowboys</td>
+            <td>22</td>
+            <td>Giants</td>
+            <td>24</td>
+            <td>46</td>
+            <td>Cowboys should lose last second in normal Cowboys fashion.</td>
+          </tr>
+          <tr class="table-primary">
+            <td>Patriots</td>
+            <td>19</td>
+            <td>Dolphins</td>
+            <td>35</td>
+            <td>54</td>
+            <td>Tua is back baby!</td>
+          <tr class="table-secondary">
+            <td>Cowboys</td>
+            <td>22</td>
+            <td>Giants</td>
+            <td>24</td>
+            <td>46</td>
+            <td>Cowboys should lose last second in normal Cowboys fashion.</td>
+          </tr>
+          <tr class="table-primary">
+            <td>Patriots</td>
+            <td>19</td>
+            <td>Dolphins</td>
+            <td>35</td>
+            <td>54</td>
+            <td>Tua is back baby!</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!--Game Detail Card Container-->
+    <h1 id="details" class="display-5 text-center"> Game Details </h1>
+    
+    <div class="row">
+      <div class="col">
+        <!--Card 1-->
+        <div class="card" style="width: 18rem;">
+          <img src="img/Packers_Bears.png" class="card-img-top" alt="packers vs bears">
+          <div class="card-body">
+            <h5 class="card-title">`${home_team} vs ${away_team}`</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+              content.</p>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Predictions</li>
+              <li class="list-group-item">Notes</li>
+              <li class="list-group-item">Actual</li>
+            </ul>
+            <a href="/gamecard1.html"" class="btn btn-primary">Select Game</a>
+          </div>
+    
+        </div>
+      </div>
+      <div class="col">
+        <!--Card 2-->
+        <div class="card" style="width: 18rem;">
+          <img src="img/Giants_Cowboys.png" class="card-img-top" alt="giants vs cowboys">
+          <div class="card-body">
+            <h5 class="card-title">`${home_team} vs ${away_team}`</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+              content.</p>
+            <ul class="list-group
+              <li class="list-group-item">Predictions</li>
+              <li class="list-group-item">Notes</li>
+              <li class="list-group-item">Actual</li>
+            </ul>
+            <a href="#"" class="btn btn-primary">Select Game</a>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <!--Card 3-->
+        <div class="card" style="width: 18rem;">
+          <img src="img/Patriots_Dolphins.png" class="card-img-top" alt="patriots vs dolphins">
+          <div class="card-body">
+            <h5 class="card-title
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            <ul class="list-group list-group-flush">
+              <li class="list-group item">Predictions</li>
+              <li class="list-group item">Notes</li>
+              <li class="list-group item">Actual</li>
+            </ul>
+            <a href="#"" class="btn btn-primary">Select Game</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--End of Container-->
+          <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+            crossorigin="anonymous"></script>
+</body>
+
+<!--Footer-->
+<div class="container"></div>
+<footer class="py-3 my-4">
+  <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+    <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Home</a></li>
+    <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Features</a></li>
+    <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Pricing</a></li>
+    <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
+    <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">About</a></li>
+  </ul>
+  <p class="text-center text-muted">NFL Predictions for JR</p>
+</footer>
+</div>
+
+</html>

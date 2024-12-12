@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-gray-100">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staffing - Paratransit Pricing Calculator</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<nav class="bg-gray-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-between h-16">
+            <div class="flex items-center">
+                <div class="flex-shrink-0">
+                    <img class="h-8 w-8" src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="Workflow">
+                </div>
+                <div class="hidden md:block">
+                    <div class="ml-10 flex items-baseline space-x-4">
+                        <a href="index.html" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Dashboard</a>
+                        <a href="pricing-assumptions.html" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Pricing Assumptions</a>
+                        <a href="staffing.html" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Staffing</a>
+                        <a href="maintenance.html" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Maintenance</a>
+                        <!-- Add more links for other sections -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+<body class="h-full">
+    <div class="min-h-full">
+        <nav class="bg-gray-800">
+            <!-- Navigation content (similar to pricing-assumptions.html) -->
+        </nav>
+
+        <header class="bg-white shadow">
+            <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+                <h1 class="text-3xl font-bold text-gray-900">Staffing</h1>
+            </div>
+        </header>
+
+        <main>
+            <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
+                <div class="px-4 py-6 sm:px-0">
+                    <form id="staffingForm" class="space-y-8 divide-y divide-gray-200">
+                        <div class="space-y-8 divide-y divide-gray-200 sm:space-y-5">
+                            <div>
+                                <h3 class="text-lg leading-6 font-medium text-gray-900">Operations Staffing</h3>
+                                <div class="mt-6 sm:mt-5 space-y-6 sm:space-y-5">
+                                    <div class="sm:grid sm:grid-cols-3 sm:gap-4 sm:items-start sm:border-t sm:border-gray-200 sm:pt-5">
+                                        <label for="generalManager" class="block text-sm font-medium text-gray-700 sm:mt-px sm:pt-2">
+                                            General Manager Salary
+                                        </label>
+                                        <div class="mt-1 sm:mt-0 sm:col-span-2">
+                                            <input type="number" name="generalManager" id="generalManager" class="max-w-lg block w-full shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:max-w-xs sm:text-sm border-gray-300 rounded-md">
+                                        </div>
+                                    </div>
+                                    <div class="sm:grid sm:grid-cols-3 sm:gap-4 sm:items-start sm:border-t sm:border-gray-200 sm:pt-5">
+                                        <label for="operationsManager" class="block text-sm font-medium text-gray-700 sm:mt-px sm:pt-2">
+                                            Operations Manager Salary
+                                        </label>
+                                        <div class="mt-1 sm:mt-0 sm:col-span-2">
+                                            <input type="number" name="operationsManager" id="operationsManager" class="max-w-lg block w-full shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:max-w-xs sm:text-sm border-gray-300 rounded-md">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="pt-5">
+                            <div class="flex justify-end">
+                                <button type="button" class="bg-white py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                                    Previous
+                                </button>
+                                <button type="submit" class="ml-3 inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                                    Next
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        document.getElementById('staffingForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            const data = Object.fromEntries(formData.entries());
+            console.log('Staffing data:', data);
+            // Store data and navigate to next page
+            localStorage.setItem('staffingData', JSON.stringify(data));
+            window.location.href = 'maintenance.html';
+        });
+    </script>
+</body>
+</html>

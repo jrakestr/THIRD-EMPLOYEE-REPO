@@ -1,0 +1,18 @@
+# System files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Embedded repositories
+NU-VIRT-FSF-PT-09-2024-U-LOLC/
+RaycastProjects/
+bootcamp/
+
+# IDE and editor configurations
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+
