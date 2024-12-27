@@ -1,0 +1,210 @@
+ 
+// TODO: POST Request with city name to retrieve weather data router.post('/', (req: Request, res: Response) => {   
+// TODO: GET weather data from city name   
+// TODO: save city to search history });  
+// TODO: GET search history router.get('/history', async (req: Request, res: Response) => {});  
+// TODO: DELETE city from search history router.delete('/history/:id', async (req: Request, res: Response) => {});  export default router; 
+
+// import { Router, type Request, type Response } from 'express'; 
+// const router = Router();  
+// import HistoryService from '../../service/historyService.js'; 
+// import WeatherService from '../../service/weatherService.js'; 
+
+
+
+[{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/server.ts",
+	"owner": "typescript",
+	"code": "6133",
+	"severity": 4,
+	"message": "'cors' is declared but its value is never read.",
+	"source": "ts",
+	"startLineNumber": 3,
+	"startColumn": 1,
+	"endLineNumber": 3,
+	"endColumn": 25,
+	"tags": [
+		1
+	]
+}]
+[{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/service/weatherService.ts",
+	"owner": "typescript",
+	"code": "2393",
+	"severity": 8,
+	"message": "Duplicate function implementation.",
+	"source": "ts",
+	"startLineNumber": 41,
+	"startColumn": 13,
+	"endLineNumber": 41,
+	"endColumn": 30
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/service/weatherService.ts",
+	"owner": "typescript",
+	"code": "2393",
+	"severity": 8,
+	"message": "Duplicate function implementation.",
+	"source": "ts",
+	"startLineNumber": 82,
+	"startColumn": 13,
+	"endLineNumber": 82,
+	"endColumn": 30
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/service/weatherService.ts",
+	"owner": "typescript",
+	"code": "2353",
+	"severity": 8,
+	"message": "Object literal may only specify known properties, and 'description' does not exist in type 'Weather'.",
+	"source": "ts",
+	"startLineNumber": 142,
+	"startColumn": 13,
+	"endLineNumber": 142,
+	"endColumn": 24
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/service/weatherService.ts",
+	"owner": "typescript",
+	"code": "2322",
+	"severity": 8,
+	"message": "Type '{ temperature: any; description: any; }[]' is not assignable to type 'Weather[]'.\n  Type '{ temperature: any; description: any; }' is missing the following properties from type 'Weather': cityName, date, humidity, windSpeed, and 2 more.",
+	"source": "ts",
+	"startLineNumber": 153,
+	"startColumn": 15,
+	"endLineNumber": 153,
+	"endColumn": 23
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/service/weatherService.ts",
+	"owner": "typescript",
+	"code": "6133",
+	"severity": 4,
+	"message": "'dayjs' is declared but its value is never read.",
+	"source": "ts",
+	"startLineNumber": 2,
+	"startColumn": 1,
+	"endLineNumber": 2,
+	"endColumn": 27,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/service/weatherService.ts",
+	"owner": "typescript",
+	"code": "6133",
+	"severity": 4,
+	"message": "'path' is declared but its value is never read.",
+	"source": "ts",
+	"startLineNumber": 4,
+	"startColumn": 1,
+	"endLineNumber": 4,
+	"endColumn": 30,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/service/weatherService.ts",
+	"owner": "typescript",
+	"code": "6133",
+	"severity": 4,
+	"message": "'fs' is declared but its value is never read.",
+	"source": "ts",
+	"startLineNumber": 5,
+	"startColumn": 1,
+	"endLineNumber": 5,
+	"endColumn": 37,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/service/weatherService.ts",
+	"owner": "typescript",
+	"code": "6133",
+	"severity": 4,
+	"message": "'buildGeocodeQuery' is declared but its value is never read.",
+	"source": "ts",
+	"startLineNumber": 41,
+	"startColumn": 13,
+	"endLineNumber": 41,
+	"endColumn": 30,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/service/weatherService.ts",
+	"owner": "typescript",
+	"code": "6133",
+	"severity": 4,
+	"message": "'buildGeocodeQuery' is declared but its value is never read.",
+	"source": "ts",
+	"startLineNumber": 82,
+	"startColumn": 13,
+	"endLineNumber": 82,
+	"endColumn": 30,
+	"tags": [
+		1
+	]
+}]
+[{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/routes/api/weatherRoutes.ts",
+	"owner": "typescript",
+	"code": "7030",
+	"severity": 4,
+	"message": "Not all code paths return a value.",
+	"source": "ts",
+	"startLineNumber": 8,
+	"startColumn": 18,
+	"endLineNumber": 8,
+	"endColumn": 58
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/routes/api/weatherRoutes.ts",
+	"owner": "typescript",
+	"code": "6133",
+	"severity": 4,
+	"message": "'req' is declared but its value is never read.",
+	"source": "ts",
+	"startLineNumber": 27,
+	"startColumn": 31,
+	"endLineNumber": 27,
+	"endColumn": 34,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/routes/api/weatherRoutes.ts",
+	"owner": "typescript",
+	"code": "7030",
+	"severity": 4,
+	"message": "Not all code paths return a value.",
+	"source": "ts",
+	"startLineNumber": 38,
+	"startColumn": 31,
+	"endLineNumber": 38,
+	"endColumn": 71
+}]
+[{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/routes/htmlRoutes.ts",
+	"owner": "typescript",
+	"code": "6133",
+	"severity": 4,
+	"message": "'req' is declared but its value is never read.",
+	"source": "ts",
+	"startLineNumber": 9,
+	"startColumn": 18,
+	"endLineNumber": 9,
+	"endColumn": 21,
+	"tags": [
+		1
+	]
+},{
+	"resource": "/Users/justinrakestraw/Manual Library/DevOps/NU-VIRT-FSF-PT-09-2024-U-LOLC/09-Servers-and-APIs/02-Challenge/Develop/server/src/routes/htmlRoutes.ts",
+	"owner": "typescript",
+	"code": "6133",
+	"severity": 4,
+	"message": "'req' is declared but its value is never read.",
+	"source": "ts",
+	"startLineNumber": 13,
+	"startColumn": 23,
+	"endLineNumber": 13,
+	"endColumn": 26,
+	"tags": [
+		1
+	]
+}]
