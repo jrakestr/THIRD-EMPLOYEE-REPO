@@ -1,0 +1,9 @@
+# Ignore Python virtual environment directories
+.venv/
+venv/
+
+# Ignore other common files
+*.pyc
+__pycache__/
+.DS_Store
+node_modules/
