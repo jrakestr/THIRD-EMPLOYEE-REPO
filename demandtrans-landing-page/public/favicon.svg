@@ -1,0 +1,7 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" rx="10" fill="#0056a6"/>
+  <path d="M20 30H40C45 30 50 35 50 40V60C50 65 45 70 40 70H20V30Z" fill="white"/>
+  <path d="M25 40H35C37 40 38 41 38 43V47C38 49 37 50 35 50H25V40Z" fill="#0056a6"/>
+  <path d="M28 42H30V45H28V42ZM33 42H35V45H33V42ZM28 47H30V50H28V47ZM33 47H35V50H33V47Z" fill="white"/>
+  <text x="55" y="55" font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="white">DT</text>
+</svg>
